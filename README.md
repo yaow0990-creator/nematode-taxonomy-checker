@@ -26,6 +26,9 @@ python scripts/build_snapshot.py
 
 # 2. 跑流程
 python scripts/run_pipeline.py --input 名录.csv --outdir out
+
+# 中文名走自己的字典（可选，可给多个）
+python scripts/run_pipeline.py --input 名录.csv --cn-dict 我的中文名字典.csv
 ```
 
 产物在 `out/`：
@@ -34,7 +37,7 @@ python scripts/run_pipeline.py --input 名录.csv --outdir out
 |---|---|
 | `线虫分类核查结果.xlsx` | 4 个 sheet：核查结果 / 待人工确认 / 功能团汇总 / 说明 |
 | `report.html` | 单文件报告，每个属带 Nemaplex 原页链接 |
-| `needs_cn_mapping.csv` | 字典未收录的中文名，等人工补 |
+| `needs_cn_mapping.csv` | 字典未收录的中文名，填上 `latin` 列后可直接回喂给 `--cn-dict` |
 
 ## 输入长什么样
 
@@ -46,7 +49,19 @@ python scripts/run_pipeline.py --input 名录.csv --outdir out
 | 垫刃线虫 | | | | |
 
 列名中英文都认（`中文名`/`name_cn`、`拉丁名`/`genus`、`科`/`family`…），
-CSV 和 XLSX 都支持。**只给中文名也能跑**——第 1 步会去查字典。
+CSV 和 XLSX 都支持。**只给中文名也能跑**——第 1 步会去查你带的字典。
+
+### 中文名字典自带
+
+Nemaplex 只有拉丁名和英文，没有中文名，所以中文名这块站点帮不上忙：**用的人自己带字典**。
+放在输入文件同目录叫 `cn_dict.csv` / `中文名字典.csv` 会自动读，也可以用 `--cn-dict` 显式指定。
+没命中的会导出成 `needs_cn_mapping.csv`（列结构与字典一致），填好再传回来即可：
+
+```bash
+python scripts/run_pipeline.py --input 名录.csv --cn-dict out/needs_cn_mapping.csv
+```
+
+示例见 `examples/my_cn_dict.csv`。
 
 ## 输出字段
 
@@ -69,19 +84,25 @@ data/
   family_order_class.json   科→纲/亚纲/目/亚目/超科
   code_glossaries.json      c-p、取食类群的权威定义原文
   zh_cn_labels.json         中文对照表（含译名可靠性标注）
-  cn_latin_seed.csv         中文名→拉丁名字典（需人工维护）
+  cn_latin_seed.csv         中文名→拉丁名字典示例种子（非必需，可换用自己的字典）
   cn_latin_genus.json       上者的编译产物
 references/
   data_source.md            站点结构、URL 规则、已知坑
   classification_systems.md 现代 vs 经典两套体系，Tylenchida 去哪了
   decision_rules.md         判定规则、置信度分级、什么必须人工确认
+examples/
+  test_input.csv            混合测试数据（含错拼、只给中文名、只给拉丁名）
+  demo_new_genera.csv       一批原表之外的属，演示流程不绑定任何单一名录
+  demo_cn_only.csv          只给中文名，演示待填表→回喂闭环
+  my_cn_dict.csv            中文名字典模板
 ```
 
 ## 两条硬边界
 
-**一、中文名必须人工把关。** Nemaplex 全站只有拉丁名和英文，没有中文名。
-中文名 → 拉丁名靠 `data/cn_latin_seed.csv` 这本本地字典。字典没命中的写进
-`out/needs_cn_mapping.csv`，**不会静默编一个**。扩充字典的方法见 `references/decision_rules.md`。
+**一、中文名不推断，由使用者自带。** Nemaplex 全站只有拉丁名和英文，中文名 → 拉丁名
+这件事没有权威的自动来源。所以本工具的做法是：你带字典就查字典，没带字典又只给中文名，
+就老实标 `unresolved` 并导出待填表，**不会猜一个看着像的拉丁名**。猜错一个属名，
+后面整条科/目/纲/功能团链全错，而且看起来很真——比空着危险得多。
 
 **二、查不到就写查不到。** 站点对很多属没有给 c-p 值和功能团（2567 属里只有 853 个有），
 空着就是空着，不按近缘属外推。这个工具的定位是 Verifier，不是 Filler。

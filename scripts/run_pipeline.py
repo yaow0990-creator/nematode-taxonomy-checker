@@ -15,6 +15,14 @@ Usage
     python scripts/run_pipeline.py --input table.xlsx --sheet Sheet1 --outdir out
     python scripts/run_pipeline.py --input names.csv --skip-normalize   # reuse out/normalized.json
 
+Chinese names are not in Nemaplex at all - bring your own 中文名->拉丁名 table:
+
+    python scripts/run_pipeline.py --input names.csv --cn-dict 我的中文名字典.csv
+
+Or drop a file named `cn_dict.csv` / `中文名字典.csv` next to the input and it is
+picked up on its own. Whatever is missing ends up in <outdir>/needs_cn_mapping.csv
+in the same layout - fill the `latin` column and pass that file straight back.
+
 The intermediate JSON stays in <outdir>/ so a single step can be re-run without
 redoing the rest.
 """
@@ -49,6 +57,11 @@ def main() -> int:
     ap.add_argument("--sheet", default=None)
     ap.add_argument("--outdir", default=os.path.join(ROOT, "out"))
     ap.add_argument("--cutoff", type=float, default=0.86)
+    ap.add_argument("--cn-dict", action="append", default=[], metavar="PATH",
+                    help="user-supplied 中文名->拉丁名 dictionary (CSV/XLSX/JSON), "
+                         "repeatable; later files override earlier ones. "
+                         "A file named cn_dict.csv / 中文名字典.csv next to the "
+                         "input is picked up automatically.")
     ap.add_argument("--skip-normalize", action="store_true")
     ap.add_argument("--no-html", action="store_true")
     args = ap.parse_args()
@@ -67,7 +80,8 @@ def main() -> int:
     if not args.skip_normalize:
         run("normalize_names.py", ["--input", args.input, "--out", normalized,
                                    "--cutoff", str(args.cutoff)]
-            + (["--sheet", args.sheet] if args.sheet else []))
+            + (["--sheet", args.sheet] if args.sheet else [])
+            + [x for p in args.cn_dict for x in ("--cn-dict", p)])
     run("lookup.py", ["--input", normalized, "--out", matched])
     run("export.py", ["--input", matched,
                       "--xlsx", os.path.join(outdir, "线虫分类核查结果.xlsx"),
@@ -81,8 +95,10 @@ def main() -> int:
             data = json.load(fh)
         pend = [r for r in data if r.get("confidence") == "unresolved" and r.get("cn_in")]
         if pend:
-            print(f"\n{len(pend)} 行的中文名未进字典，见 {src}；补进 data/cn_latin_seed.csv "
-                  f"后重跑 scripts/build_cn_dict.py 即可")
+            print(f"\n{len(pend)} 行的中文名还缺拉丁名对应，见 {src}")
+            print("  在该文件的 latin 列填好后，直接把同一个文件当字典传回来重跑：")
+            print(f"  python scripts/run_pipeline.py --input \"{args.input}\" "
+                  f"--cn-dict \"{src}\"")
 
     print(f"\n全部产物在 {outdir}")
     return 0

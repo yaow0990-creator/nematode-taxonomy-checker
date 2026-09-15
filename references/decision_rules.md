@@ -9,7 +9,7 @@
 | 值 | 什么时候出现 | 是否可直接用 |
 |---|---|---|
 | `exact` | 拉丁名在 Nemaplex 属索引里直接命中 | ✅ 是 |
-| `dictionary` | 靠中文名查本地字典得到拉丁名，且该属在站点存在 | ✅ 是 |
+| `dictionary` | 靠中文名查字典（使用者自带的，或仓库里的种子）得到拉丁名，且该属在站点存在 | ✅ 是 |
 | `cn-conflict` | 表里同时给了中文名和拉丁名，但两者指向不同属 | ❌ 必须人工裁决 |
 | `spelling-suspect` | 拉丁名不在索引中，`difflib` 找到了 ≥0.86 的相似项 | ❌ 需人工确认是不是拼错 |
 | `unresolved` | 既查不到字典、又无相似候选 | ❌ 需人工补录 |
@@ -49,6 +49,7 @@
 | `cp_cn`、`feeding_group_cn`、`functional_guild_cn` | 本地对照表 | 代码→中文 |
 | `ord_cn`、`cls_cn`、`subcls_cn` | 本地对照表 | 看 `confidence` 是否 `tentative` |
 | `cls_trad` | **派生** | 按归并规则换算，非站点原文 |
+| `latin`（来自字典时） | **使用者提供** | 看 `cn_dict_layer` 是哪个文件给的 |
 | `genus_url` | 站点原文 | 属详情页链接，可逐条复核 |
 
 ## 什么情况必须人工确认
@@ -62,7 +63,8 @@
    `Odotopharynx`→`Odontopharynx`、`Beleodorus`→`Boleodorus`、
    `Rhabdontolaimus`→`Rhabditolaimus`、`Wilsotylus`→`Wilsonema`、
    `Fudonchulus`→`Judonchulus`。**替换前确认这是错拼，而不是一个真属名。**
-3. `unresolved` — 字典没有、相似项也没有。写进 `out/needs_cn_mapping.csv`。
+3. `unresolved` — 字典没有、相似项也没有。写进 `out/needs_cn_mapping.csv`，填好 `latin` 列后
+   可用 `--cn-dict` 回喂，不必改仓库里的种子。
 4. `not-found` — 站点没这个属。可能是异名、已废弃属、新描述但站点未更新，
    或者拼错到相似度低于阈值。查一下原始文献再定。
 5. `tentative` 的中文译名 — 自拟的目名、纲名，论文里用之前复核一遍。
@@ -82,19 +84,66 @@
 - **不要用现有资料补站点没有的字段。** 本 skill 的定位是"Verifier"不是"Filler"。
   用户要的是可复核的核查结果，不是看起来完整的表。
 
-## 扩充中文名字典的正确姿势
+## 中文名字典：由使用者自带，本工具不推断
 
-1. 打开 `out/needs_cn_mapping.csv`，逐条查文献/词典确定拉丁属名；
-2. 在 Nemaplex 属索引里确认这个拉丁名存在；
-3. 追加一行到 `data/cn_latin_seed.csv`：
+Nemaplex 全站没有中文名，所以"中文名 → 拉丁名"没有权威的自动来源。本工具的处理原则是
+**把字典当外部输入**，而不是内置一份需要维护的权威表：
+
+| 层 | 来源 | 说明 |
+|---|---|---|
+| 1 | `data/cn_latin_genus.json` | 随仓库的示例种子（180 条），仅作演示与兜底 |
+| 2 | 输入文件同目录的 `cn_dict.csv` / `中文名字典.csv` / `<输入名>.dict.csv` | 自动发现，无需参数 |
+| 3 | `--cn-dict 路径` | 显式指定，可重复；**后面覆盖前面** |
+
+三层的合并顺序就是上表顺序，所以使用者自己的判断永远压过仓库里的种子。
+
+### 字典文件格式
+
+CSV / XLSX 均可，列名中英文都认（`cn` 或 `中文名`、`latin` 或 `拉丁名`）：
+
+```csv
+cn,latin,aliases,confidence,source
+伪垫刃,Nothotylenchus,,user-verified,用户提供名录 2026-09
+垫刃线虫,Tylenchus,麦线虫属,user-verified,FAO AGROVOC
+```
+
+- `aliases` 用 `;` 或 `,` 分隔，**会被注册成可匹配的键**（别名指向同一条目，但不会覆盖
+  已有的正式条目）；
+- `confidence` 是自由标签，建议 `user-verified` / `user-supplied`。注意别写 `exact`——
+  那是流程内部给"站点直接命中"保留的值；
+- 带不带"属"字都认（查表时尾部"属"会被去掉）。
+
+### 闭环：待填表 → 字典
+
+字典没命中的中文名会导出到 `<outdir>/needs_cn_mapping.csv`，**列结构与字典文件完全一致**，
+唯一的区别是 `latin` 列空着等填，另有一个只读的 `latin_in_table` 列记录源表原本给的拉丁名
+（方便判断是"缺映射"还是"源表也错了"）。
 
 ```
-中文名,latin,aliases,confidence,source
-伪垫刃,Nothotylenchus,,seed-verified,用户提供名录 2026-09
-垫刃线虫,Tylenchus,麦线虫属,seed-verified,FAO AGROVOC
+cn,latin,aliases,confidence,source,latin_in_table,note,no
+伞滑刃属,,,user-supplied,,,字典未收录,1
 ```
 
-4. 重编译：`python scripts/build_cn_dict.py`
+填好 `latin` 后，把**同一个文件**当字典传回来即可：
 
-`confidence` 建议用 `seed-verified`（人工核过）或 `seed-unresolved`（暂未在站点找到），
-不要写 `exact`——那是流程内部给站点命中的保留值。
+```bash
+python scripts/run_pipeline.py --input 名录.csv --cn-dict out/needs_cn_mapping.csv
+```
+
+多跑几轮，这份文件自己就长成使用者的字典。注意两点：填在 `latin` 列里（另起列读不到）；
+文件存 UTF-8（Excel 另存 CSV 默认不是，会乱码）。
+
+### 写字典前的自检
+
+1. 先在 Nemaplex 属索引里确认这个拉丁属名存在（不存在的话，后面分类匹配同样是空的）；
+2. 再确认中文名不是异名混用——如果表里同时给了中文名和拉丁名且两者不符，流程会标
+   `cn-conflict` 让你裁决，不会自动站队；
+3. 出处写进 `source`，方便别人复核。
+
+### 不要做的事
+
+- **不要把一个中文名硬塞给两个拉丁属。** 一书一译是常态，遇到就分开两条、各自标注来源。
+- **不要用模型推断的中文名混进已核条目。** 如果确实要推断，单独放一个文件、单独标
+  `model-proposed`，让使用者自己决定要不要用。
+- **不要为了"让流程跑通"而随便填一个拉丁名。** 填错的后果是整条科/目/纲/功能团链全错，
+  而且看起来很真——比留空危险得多。

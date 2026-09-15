@@ -5,9 +5,14 @@
 Why a separate compile step
 ---------------------------
 Chinese genus names are NOT available on Nemaplex (the site is Latin/English
-only). The Chinese-to-Latin mapping is therefore a curated asset that has to be
-maintained by hand. Keeping it as a CSV makes it reviewable in Excel; this
-script turns it into a lookup table with normalised keys.
+only), so the Chinese-to-Latin mapping cannot come from the data source. The
+pipeline therefore treats it as an input the user brings: pass a dictionary with
+`--cn-dict` to normalize_names.py / run_pipeline.py and it is merged on top of
+whatever seed ships here. This script only compiles the small in-repo seed.
+
+If you would rather keep your own dictionary outside the repo (recommended),
+you do not need this script at all - just hand the CSV/XLSX straight to
+--cn-dict.
 
 Key normalisation
 -----------------

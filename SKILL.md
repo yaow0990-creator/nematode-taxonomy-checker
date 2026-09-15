@@ -25,8 +25,9 @@ agent_created: true
 ## 四条不可动摇的规则
 
 1. **站点说什么就是什么。** 分类与功能团字段不允许模型"猜一个合理的"。查不到就写查不到。
-2. **中文名是唯一需要人工把关的环节。** Nemaplex 全站只有拉丁名。中文名 → 拉丁名靠本地字典
-   `data/cn_latin_seed.csv`；字典没命中的，写进 `out/needs_cn_mapping.csv` 让人补，**绝不静默填入**。
+2. **中文名由使用者自带。** Nemaplex 全站只有拉丁名和英文，一个中文都不收录。所以"中文名 → 拉丁名"
+   这件事站点帮不上忙，本 skill 也**不做推断**：用的人自己带一份字典进来（`--cn-dict`），
+   或者就只给拉丁名。字典没命中的，导出成待填表，填好再喂回来，**绝不静默填入**。
 3. **源表和站点不一致时，两边都留着。** 输出里同时有"源表值"和"Nemaplex 值"，判定列写明差异。
    不做静默覆盖。
 4. **不确定的分级标出来。** 每行都有 `confidence`，低于 `dictionary` 的一律进"待人工确认"页。
@@ -51,11 +52,41 @@ python scripts/run_pipeline.py --input 名录.csv --outdir out
 # Excel 输入也行
 python scripts/run_pipeline.py --input 名录.xlsx --sheet Sheet1
 
+# 中文名走自己的字典（可给多个，后面的覆盖前面的）
+python scripts/run_pipeline.py --input 名录.csv --cn-dict 我的中文名字典.csv
+
 # 分步跑（中间产物留在 out/，某一步改了不用重跑全部）
 python scripts/normalize_names.py --input 名录.csv --out out/normalized.json
 python scripts/lookup.py --input out/normalized.json --out out/matched.json
 python scripts/export.py --input out/matched.json
 ```
+
+### 中文名怎么进来
+
+Nemaplex 不收录中文名，所以这一步**必须由使用者提供**。三种方式，优先级从低到高：
+
+1. skill 自带的小种子字典 `data/cn_latin_genus.json`（180 条，仅作示例与兜底）
+2. 放在输入文件同目录的 `cn_dict.csv` / `中文名字典.csv` / `<输入文件名>.dict.csv` —— 自动读取
+3. `--cn-dict 路径` 显式指定，可重复，后一个文件覆盖前一个
+
+字典文件（CSV / XLSX / 编译好的 JSON 都行）的列：
+
+| 列 | 必需 | 说明 |
+|---|---|---|
+| `cn` 或 `中文名` | ✔ | 中文属名，带不带"属"字都认 |
+| `latin` 或 `拉丁名` | ✔ | 对应拉丁属名 |
+| `aliases` | | 同一属的其他中文叫法，`;` 或 `,` 分隔，**也会被当作可匹配的键** |
+| `confidence` | | 自填标签，如 `user-verified` |
+| `source` | | 出处，方便日后复核 |
+
+**兜底闭环**：字典没命中的中文名会导出成 `out/needs_cn_mapping.csv`，**列结构与字典文件完全一致**。
+在 `latin` 列填上，然后把同一个文件当字典传回来重跑即可：
+
+```bash
+python scripts/run_pipeline.py --input 名录.csv --cn-dict out/needs_cn_mapping.csv
+```
+
+多跑几轮，这份文件自己就长成你的字典了。
 
 ### 输入格式
 
@@ -69,7 +100,8 @@ CSV 或 XLSX，表头可用的列名（中英文都认）：
 | 已有目 | 目 / order | 可选 |
 | 已有纲 | 纲 / class | 可选 |
 
-**只给中文名和拉丁名就够了**——这正是第 1 步存在的意义。
+**只给中文名和拉丁名就够了**——这正是第 1 步存在的意义。只给中文名时，结果完全取决于
+你带的字典；只给拉丁名时不需要任何字典（站点索引里就有）。
 
 ### 输出
 
@@ -79,7 +111,7 @@ CSV 或 XLSX，表头可用的列名（中英文都认）：
 | `out/report.html` | 单文件报告：概览卡片、分布表、待确认清单、全部结果 |
 | `out/normalized.json` | 第 1 步中间产物，名称解析结果 + 置信度 |
 | `out/matched.json` | 第 2、3 步中间产物，全字段 |
-| `out/needs_cn_mapping.csv` | 字典未收录的中文名，**等您补** |
+| `out/needs_cn_mapping.csv` | 字典未收录的中文名，**等您填 `latin` 列**；填好后可直接当 `--cn-dict` 输入 |
 
 ## 流程四步
 
@@ -87,9 +119,10 @@ CSV 或 XLSX，表头可用的列名（中英文都认）：
 
 1. **给了拉丁名** → 在属索引里核。核不到就用 `difflib` 提 3 个最近邻，标 `spelling-suspect`
    （真实场景里 `Criconrmoides`、`Enchodelu`、`Diplogsteroides` 这类错拼一整片）。
-2. **给了中文名** → 查 `data/cn_latin_genus.json`（由 `data/cn_latin_seed.csv` 编译）。
-   尾部"属"字会被去掉，所以"伪垫刃属"和"伪垫刃"都能命中。
-3. **中文名没命中** → 写进 `out/needs_cn_mapping.csv`，留空位等人工填。不编。
+2. **给了中文名** → 查字典（自带种子 + 自动发现的同目录字典 + `--cn-dict`，后者覆盖前者）。
+   尾部"属"字会被去掉，所以"伪垫刃属"和"伪垫刃"都能命中；`aliases` 列里的别名同样可命中。
+3. **中文名没命中** → 按字典文件格式写进 `out/needs_cn_mapping.csv`，`latin` 列留空。不编。
+   填好后把该文件用 `--cn-dict` 传回来即可完成闭环。
 4. **两个都给了但对不上** → 标 `cn-conflict`，人工裁决，不覆盖。
 
 置信度分级（`exact` > `dictionary` > `cn-conflict` > `spelling-suspect` > `unresolved`）。
@@ -130,20 +163,26 @@ Rhabditida）和经典（Chitwood 1958：Adenophorea / Secernentea）。经典�
 Excel 的"说明"页写清字段释义、置信度分级、两套体系差异、c-p 与取食类群的完整定义原文出处。
 报告里所有链接都指向对应的 Nemaplex 属页，方便逐条复核。
 
-## 中文名字典怎么扩
+## 关于中文名（边界说清）
 
-`data/cn_latin_seed.csv` 现在 180 行（176 条已核，4 条未解决）。扩充方式：
+**本 skill 不负责产生中文名。** 中文名的权威性取决于使用者引用的资料，不在站点里，
+也不在模型的知识里。所以：
 
-1. 跑完流程后看 `out/needs_cn_mapping.csv`，把拉丁名补上；
-2. 追加到 `data/cn_latin_seed.csv`（列：`cn, latin, aliases, confidence, source`）；
-3. 重编译：
+- 用的人自己带字典 → 中文名这条路就通；
+- 不带字典、只给中文名 → 会老实标 `unresolved`，列出待填表，**不会猜一个看着像的拉丁名**。
+  猜错一个属名，后面整条科/目/纲/功能团链全是错的，而且看起来很真，比空着危险得多；
+- 不带字典、只给拉丁名 → 完全不受影响（站点索引里就有）。
+
+`data/cn_latin_seed.csv` 只是示例种子（180 条，来自一次真实名录核查），**不是**必须维护的资产。
+想把它当长期字典用，可继续按 `cn, latin, aliases, confidence, source` 追加，再编译：
 
 ```bash
 python scripts/build_cn_dict.py
 ```
 
-`latin` 建议先在该站的属索引里确认存在，再写进去。`aliases` 填同一属的其他中文叫法
-（如"垫刃线虫属"和"麦线虫属"）。
+但更推荐用 `--cn-dict` 外挂，这样每个人各带各的字典，仓库里这份种子保持干净。
+`latin` 写进去之前建议先在站点属索引里确认该属存在。`aliases` 填同一属的其他中文叫法
+（如"松材线虫属"与"伞滑刃属"）。
 
 ## 判定列的含义
 
@@ -184,6 +223,11 @@ python scripts/build_cn_dict.py
   那是经典体系——`lookup.py` 会识别成体系换算而不是不一致，备注里说明即可。
 - **中文译名要复核。** 目名里 `Desmoscolecida`、`Microlaimida`、`Isolaimiida` 等标了
   `tentative`（暂无通行译名），投稿前按用户引用的体系再核一遍。
+- **待填表就填在 `latin` 列里，别加列。** `out/needs_cn_mapping.csv` 的列名与字典文件一致，
+  是为了直接回喂。另起一列或改表头，`--cn-dict` 就读不到了。文件存为 UTF-8（Excel 另存 CSV 默认
+  不是，会乱码）。
+- **`aliases` 是能匹配的键，不只是备注。** 别名与正名指向同一条目；但别名**不会**覆盖已有的
+  正式条目，避免把别的属挤掉。
 
 ## 参考文件
 
