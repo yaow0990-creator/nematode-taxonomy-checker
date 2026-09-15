@@ -1,0 +1,127 @@
+{
+ "_note": "中文标签对照表。拉丁名与代码体系来自 Nemaplex；中文译名为文献通用译法，标 tentative 的是暂无通行译名的自拟或暂译，投稿前请按您引用的体系复核。",
+ "classes_modern": {
+  "Chromadorea": "色矛纲",
+  "Enoplea": "刺嘴纲"
+ },
+ "classes_classical": {
+  "Adenophorea": "无尾感器纲",
+  "Secernentea": "尾感器纲"
+ },
+ "subclasses": {
+  "Chromadoria": "色矛亚纲",
+  "Enoplia": "刺嘴亚纲",
+  "Dorylaimia": "矛线亚纲",
+  "Rhabditia": "小杆亚纲",
+  "Spiruria": "旋尾亚纲",
+  "Diplogastria": "双胃亚纲"
+ },
+ "orders": {
+  "Rhabditida": {"cn": "小杆目", "system": "modern", "confidence": "standard"},
+  "Dorylaimida": {"cn": "矛线目", "system": "modern", "confidence": "standard"},
+  "Mononchida": {"cn": "单齿目", "system": "modern", "confidence": "standard"},
+  "Enoplida": {"cn": "刺嘴目", "system": "modern", "confidence": "standard"},
+  "Triplonchida": {"cn": "三矛目", "system": "modern", "confidence": "standard"},
+  "Plectida": {"cn": "绕线目", "system": "modern", "confidence": "standard"},
+  "Chromadorida": {"cn": "色矛目", "system": "modern", "confidence": "standard"},
+  "Monhysterida": {"cn": "单宫目", "system": "modern", "confidence": "standard"},
+  "Desmodorida": {"cn": "链环目", "system": "modern", "confidence": "standard"},
+  "Araeolaimida": {"cn": "无咽目", "system": "modern", "confidence": "standard"},
+  "Desmoscolecida": {"cn": "链线目", "system": "modern", "confidence": "tentative"},
+  "Microlaimida": {"cn": "微咽目", "system": "modern", "confidence": "tentative"},
+  "Isolaimiida": {"cn": "等咽目", "system": "modern", "confidence": "tentative"},
+  "Mermithida": {"cn": "索线目", "system": "modern", "confidence": "standard"},
+  "Dioctophymatida": {"cn": "膨结目", "system": "modern", "confidence": "standard"},
+  "Trichinellida": {"cn": "毛形目", "system": "modern", "confidence": "standard"},
+  "Marimermithida": {"cn": "海索线目", "system": "modern", "confidence": "tentative"},
+  "Muspiceida": {"cn": "鼠线目", "system": "modern", "confidence": "tentative"},
+  "Tylenchida": {"cn": "垫刃目", "system": "classical", "confidence": "standard"},
+  "Aphelenchida": {"cn": "滑刃目", "system": "classical", "confidence": "standard"},
+  "Diplogastrida": {"cn": "双胃目", "system": "classical", "confidence": "standard"},
+  "Spirurida": {"cn": "旋尾目", "system": "classical", "confidence": "standard"},
+  "Ascaridida": {"cn": "蛔目", "system": "classical", "confidence": "standard"},
+  "Strongylida": {"cn": "圆线目", "system": "classical", "confidence": "standard"},
+  "Camallanida": {"cn": "驼形目", "system": "classical", "confidence": "standard"},
+  "Drilonematida": {"cn": "蛭线目", "system": "classical", "confidence": "tentative"},
+  "Stichosomida": {"cn": "列体目", "system": "classical", "confidence": "tentative"}
+ },
+ "cp_classes": {
+  "_note": "定义原文见 data/code_glossaries.json 的 cp_classes 表。",
+  "1": {"cn": "极机会型", "desc": "世代极短、繁殖率极高、富营养条件下快速增长；贫营养时形成休眠幼虫；以细菌食为主"},
+  "2": {"cn": "机会型", "desc": "世代短、繁殖率高（低于 c-p1）；不形成休眠幼虫；分布广、耐污染与干扰；以细菌食、真菌食为主，少数捕食"},
+  "3": {"cn": "中间型", "desc": "世代较 c-p2 长，对干扰更敏感；细菌食、真菌食及部分捕食"},
+  "4": {"cn": "敏感型", "desc": "小型矛线类与大型非矛线类，生殖腺占体比例低；世代长、角质层通透性强"},
+  "5": {"cn": "持久型", "desc": "大型矛线类，寿命长、繁殖率低、代谢低；对污染物与干扰极敏感；大型杂食者与捕食者"}
+ },
+ "feeding_groups": {
+  "_note": "定义原文见 data/code_glossaries.json 的 feeding_groups 表。",
+  "1": {"cn": "植物寄生", "en": "Plant feeding"},
+  "2": {"cn": "菌丝取食（真菌食）", "en": "Hyphal feeding"},
+  "3": {"cn": "细菌食", "en": "Bacterial feeding"},
+  "4": {"cn": "基质取食", "en": "Substrate ingestion"},
+  "5": {"cn": "动物捕食", "en": "Animal predation"},
+  "6": {"cn": "单细胞真核生物取食", "en": "Unicellular eucaryote feeding"},
+  "7": {"cn": "动物寄生虫感染期传播", "en": "Dispersal of infective stages of animal parasites"},
+  "8": {"cn": "杂食", "en": "Omnivorous"}
+ },
+ "guild_letters": {
+  "b": "细菌食",
+  "f": "真菌食",
+  "h": "植物寄生",
+  "o": "杂食",
+  "p": "捕食",
+  "e": "真核生物取食",
+  "d": "基质取食／传播"
+ },
+ "putative_feeding_cn": {
+  "plant feeders": "植物寄生",
+  "fungus feeders": "真菌食",
+  "bacteria feeders": "细菌食",
+  "bacterial feeders": "细菌食",
+  "predators": "捕食者",
+  "omnivores": "杂食者",
+  "eucaryote feeders": "真核生物取食",
+  "substrate ingestion?": "疑似基质取食",
+  "animal parasites": "动物寄生",
+  "marine nematodes": "海洋线虫",
+  "marine parasites": "海洋寄生",
+  "marine predators": "海洋捕食者",
+  "marine/fw nematodes": "海洋／淡水线虫",
+  "freshwater nematodes": "淡水线虫",
+  "marine/freshwater nematodes": "海洋／淡水线虫",
+  "marine/terrestrial nematodes": "海洋／陆生线虫",
+  "brackish/marine nematodes": "半咸水／海洋线虫",
+  "insect parasites": "昆虫寄生",
+  "insect associates": "昆虫伴生",
+  "microbial feeders": "微生物取食",
+  "unknown": "未知",
+  "gen / fam inquirendae": "属／科地位待定",
+  "fossil nematode": "化石线虫"
+ },
+ "source_typos": {
+  "_note": "Nemaplex 源表自身的拼写错误，读取时归一化，避免污染下游统计。",
+  "animal paraqsites": "animal parasites",
+  "ahimal parasites": "animal parasites",
+  "animal parasite": "animal parasites",
+  "marine nemayodes": "marine nematodes",
+  "narine nematodes": "marine nematodes",
+  "unkmown": "unknown",
+  "microbial feefers": "microbial feeders",
+  "omnivora": "omnivores",
+  "Predators": "predators",
+  "bacterial feeders": "bacteria feeders",
+  "insect associate": "insect associates",
+  "plant feeders?": "plant feeders",
+  "marine nematodes; freshwater": "marine/freshwater nematodes"
+ },
+ "family_aliases": {
+  "_note": "属索引页的科名与「Index to Families」分类表的科名不一致时，归一到右侧的规范拼写。来源已逐条在站上核实（见 references/data_source.md）。build_snapshot.py 的 normalise_family_name() 读取本表；未登记的笔误再由 difflib 兜底。",
+  "Crateronematdae": "Crateronematidae",
+  "Linhomoiedae": "Linhomoeidae",
+  "Xennellidae": "Xenellidae"
+ },
+ "family_alternates_acknowledged": {
+  "_note": "站点自己承认的异拼，不是笔误，故只记录不作判定。Xenellidae 科页原文：「Xenellidae (or Xennellidae)」「Xennellidae De Coninck, 1965 (also as Xenellidae, De Coninck, 1965)」。",
+  "Xenellidae": ["Xennellidae"]
+ }
+}

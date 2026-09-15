@@ -1,0 +1,14 @@
+{
+ "source": "Nemaplex, UC Davis",
+ "source_root": "http://nemaplex.ucdavis.edu/",
+ "built_at": "2026-09-15 14:51:23",
+ "generator": "scripts/build_snapshot.py",
+ "family_count": 292,
+ "family_with_order": 292,
+ "family_with_class": 292,
+ "genus_count": 2567,
+ "genus_family_renamed": 4,
+ "genus_family_unmatched": 0,
+ "genus_with_cp": 853,
+ "genus_with_guild": 852
+}

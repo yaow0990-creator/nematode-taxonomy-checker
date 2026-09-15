@@ -1,0 +1,94 @@
+{
+ "cp_classes": {
+  "source": "http://nemaplex.ucdavis.edu/IndexFiles/Heading%20Category-CP%20Classes.html",
+  "title": "CP Classes",
+  "table": [
+   [
+    "Cp class (colonizer-persister)",
+    "Characteristics"
+   ],
+   [
+    "1",
+    "Short generation time; large percentage of body occupied by gonad; small eggs; rapid growth under enriched condition; form dauer larvae in impoverished conditions; mainly bacterivores"
+   ],
+   [
+    "2",
+    "Short generation time; relatively high reproduction rates (but slower than cp-1); slower response to environmental enrichment; do not form dauerlarvae; occur in a wide range of environments; tolerant of pollutants and disturbance; mainly bacterial and fungus feeders and a few predators"
+   ],
+   [
+    "3",
+    "Longer generation time that cp2 and greater sensitivity to disturbance; bacterial and fungus feeders and some predators"
+   ],
+   [
+    "4",
+    "Small dorylaims and large non-dorylaims with a low ratio of gonads to body volume. Long generation time, permeable cuticle. The carnivores actively seek prey, the non-carnivores are less active. Includes large carnivores, smaller omnivores and some bacterial feeders"
+   ],
+   [
+    "5",
+    "Large dorylaimid nematodes with long life spans, low reproduction rates, low metabolic activity; gonads small in relation to body volume; low number of large eggs; very sensitive to pollutants and other disturbances. Large omnivores and predators"
+   ]
+  ],
+  "text": "Cp class (colonizer-persister) Characteristics 1 Short generation time; large percentage of body occupied by gonad; small eggs; rapid growth under enriched condition; form dauer larvae in impoverished conditions; mainly bacterivores 2 Short generation time; relatively high reproduction rates (but slower than cp-1); slower response to environmental enrichment; do not form dauerlarvae; occur in a wide range of environments; tolerant of pollutants and disturbance; mainly bacterial and fungus feeders and a few predators 3 Longer generation time that cp2 and greater sensitivity to disturbance; bacterial and fungus feeders and some predators 4 Small dorylaims and large non-dorylaims with a low ratio of gonads to body volume. Long generation time, permeable cuticle. The carnivores actively seek prey, the non-carnivores are less active. Includes large carnivores, smaller omnivores and some bacterial feeders 5 Large dorylaimid nematodes with long life spans, low reproduction rates, low metabolic activity; gonads small in relation to body volume; low number of large eggs; very sensitive to pollutants and other disturbances. Large omnivores and predators References: Bongers, T. (1990) The maturity index: an ecological measure of environmental disturbance based on nematode species composition, Oecologia 83, 14–19. Bongers, T. and M. Bongers. 1998. Functional diversity of nematodes. Appl. Soil Ecol. 10, 239–251. Bongers, T. and H. Ferris . 1999. Nematode community structure as a bioindicator in environmental monitoring. Trends in Evolution and Ecology 14:224-228. Ferris, H., T. Bongers, and R. G. M. de Goede. 2001. A framework for soil food web diagnostics: extension of the nematode faunal analysis concept. Applied Soil Ecology 18:13-29. Ferris, H. and Bongers, T. 2009. Indices for analysis of nematode assemblages. Chapter 5 in: \"Nematodes as Environmental Bioindicators\". Editors: M.J. Wilson and T. Kakouli-Duarte. CAB International , Wallingford, UK, pp 124-145. Sieriebriennikov, B., Ferris, H., de Goede, R.G.M. 2014. NINJA: An automated calculation system for nematode-based biological monitoring. European Journal of Soil Biology 61:90-93."
+ },
+ "feeding_groups": {
+  "source": "http://nemaplex.ucdavis.edu/IndexFiles/Heading%20Category-Feeding%20Groups.html",
+  "title": "Feeding Groups",
+  "table": [
+   [
+    "Feeding Group",
+    "Putative Feeding"
+   ],
+   [
+    "1",
+    "Plant feeding: Plant feeders: extract cell contents of vascular plants and algae by means of a stomatostyle or odontostyle"
+   ],
+   [
+    "2",
+    "Hyphal feeding: fungus feeders: extract cell contents of fungal hyphae by means of a stomatostyle or odontostyle"
+   ],
+   [
+    "3",
+    "Bacterial feeding: Bacteria feeders: feed on procaryotes by ingestion though stomas of various dimeters that may regulate the size of the cells ingested."
+   ],
+   [
+    "4",
+    "Substrate ingestion: May be incidental to bacterial- feeding, eukaryote feeding or ingestion during predation. Non-selective deposit feeding of freshwater and marine inhabitants fits into this category but may not be designated in the tables."
+   ],
+   [
+    "5",
+    "Animal predation: may be subdivided into Ingesters that ingest invertebrates such as protozoa, nematodes, enchtraeids, zooplankton so that the intestine may include identifiable remains of the prey,, and Piercers that suck body contents of the prey through a narrow stylet so that the intestine never contains intact remains of prey."
+   ],
+   [
+    "6",
+    "Unicellular Eucaryote feeding: Ingestion of diatoms, algae, fungal spores, yeast cells. May be applicable to many freshwater and marine taxa."
+   ],
+   [
+    "7",
+    "Dispersal of Infective Stages of Animal parasites. May include alternate or secondary hosts, as opposed to definitive hosts, of animal parasites, entomopathogenic species"
+   ],
+   [
+    "8",
+    "Omnivorous: Difficult to define: may include dorylains that are considered generalist predators and may indicate use of a broad range of resources in Feeding Group categories 1-6."
+   ]
+  ],
+  "text": "Putative Feeding and Feeding Groups Feeding Group Putative Feeding 1 Plant feeding: Plant feeders: extract cell contents of vascular plants and algae by means of a stomatostyle or odontostyle 2 Hyphal feeding: fungus feeders: extract cell contents of fungal hyphae by means of a stomatostyle or odontostyle 3 Bacterial feeding: Bacteria feeders: feed on procaryotes by ingestion though stomas of various dimeters that may regulate the size of the cells ingested. 4 Substrate ingestion: May be incidental to bacterial- feeding, eukaryote feeding or ingestion during predation. Non-selective deposit feeding of freshwater and marine inhabitants fits into this category but may not be designated in the tables. 5 Animal predation: may be subdivided into Ingesters that ingest invertebrates such as protozoa, nematodes, enchtraeids, zooplankton so that the intestine may include identifiable remains of the prey,, and Piercers that suck body contents of the prey through a narrow stylet so that the intestine never contains intact remains of prey. 6 Unicellular Eucaryote feeding: Ingestion of diatoms, algae, fungal spores, yeast cells. May be applicable to many freshwater and marine taxa. 7 Dispersal of Infective Stages of Animal parasites. May include alternate or secondary hosts, as opposed to definitive hosts, of animal parasites, entomopathogenic species 8 Omnivorous: Difficult to define: may include dorylains that are considered generalist predators and may indicate use of a broad range of resources in Feeding Group categories 1-6. References: Ferris, H., T. Bongers, and R. G. M. de Goede. 2001. A framework for soil food web diagnostics: extension of the nematode faunal analysis concept. Applied Soil Ecology 18:13-29. Yeates, G.W., Bongers, T., De Goede, R.G.M., Freckman, D.W., Georgieva, S.S., 1993. Feeding habits in soil nematode families and genera — an outline for soil ecologists. J. Nematol. 25:315–331."
+ },
+ "functional_guilds": {
+  "source": "http://nemaplex.ucdavis.edu/IndexFiles/Heading%20Category-Functional%20Guilds.html",
+  "title": "Functional Guilds",
+  "table": [],
+  "text": "﻿ Functional Guilds Functional Guilds: A combination of feeding habits defined as bacterivores, fungivores, predates and omnivores combined with the cp classification. A component of Faunal Analysis of the condition of the soil food web. References: Bongers, T. and M. Bongers. 1998. Functional diversity of nematodes. Appl. Soil Ecol. 10, 239–251. Bongers, T. and H. Ferris . 1999. Nematode community structure as a bioindicator in environmental monitoring. Trends in Evolution and Ecology 14:224-228. Ferris H. 2010. Form and function: metabolic footprints of nematodes in the soil food web. European Journal of Soil Biology 46:97-104. Ferris, H., T. Bongers, and R. G. M. de Goede. 2001. A framework for soil food web diagnostics: extension of the nematode faunal analysis concept. Applied Soil Ecology 18:13-29. Sieriebriennikov, B., Ferris, H., de Goede, R.G.M. 2014. NINJA: An automated calculation system for nematode-based biological monitoring. European Journal of Soil Biology 61:90-93."
+ },
+ "putative_feeding": {
+  "source": "http://nemaplex.ucdavis.edu/IndexFiles/Heading%20Category-Putative%20Feeding.html",
+  "title": "Putative Feeding",
+  "table": [],
+  "text": "Putative Feeding The feeding habits of nematodes are based on direct observation, feeding structures, intestinal content, stomal attributes, esophageal/pharyngeal structure and feeding behavior. In some cases. The feeding habits are relatively certain. For example, most nematodes with a large stomatostyle and tylenchid esophagus probably feed on.higher plants. However, those with a delicate, finer stylet may be fungus feeders, or perhaps designated as root associates feeding on plant and/or fungal structures that can be accessed with a delicate stylet. Nematodes that feed on bacteria may be observed ingesting bacteria-laden suspensions on an agar plate, but is that all that they are ingesting? What about dissolved nutrients or particulate matter in the ingested suspension? In the case of nematodes that are parasites of animals, the ingestion of blood or tissues can be inferred by observation and damage to the host. However, some nematode associates of arthropods are assumed to have necronemic behavior. They may or may not accelerate the death of the host but actually feed on bacteria that are exploiting the decaying tissues. The feeding habits or freshwater and marine nematodes may be inferred from plankton or algae in the intestine contents but many may be direct parasites or fish and marine invertebrates, So, there are many uncertainties in feeding habits and, in the Nemaplex tables, no attempt had been made to define the actual food of marine, freshwater or animal-parasitic nematodes. Otherwise, the definitions proposed by Yeates et al (1993) are generally followed in Nemaplex except where more recent information has emerged. References: Yeates, G.W., Bongers, T., De Goede, R.G.M., Freckman, D.W., Georgieva, S.S., 1993. Feeding habits in soil nematode families and genera — an outline for soil ecologists. J. Nematol. 25:315–331."
+ },
+ "family": {
+  "source": "http://nemaplex.ucdavis.edu/IndexFiles/Heading%20Category-Family.html",
+  "title": "Family",
+  "table": [],
+  "text": "﻿ Family Family: The Family is one of the hierarchical ranks in Linnean taxonomy and classification systems. In rank level, it is between Genus and Order , but is frequently bracketed by the intermediate ranks of Subfamily and Superfamily . The assignment of genera to families is proposed and defended, based on currently available evidence, by authorities with expertise in the discipline. Sometimes, proposed changes in family assignments are not generally accepted, or they may not have been noticed, with the result that parallel classification assignments may occur concurrently in the literature. Family assignments of nematodes evolve with insights provided by new species descriptions, by authorities with different perspectives regarding the relative evolutionary and relationship importance of certain characters, and through the elevation and combination of families and subfamilies Family names have a Latinized root, which may be descriptive of a location, habitat, behavior or honorific. In Nematology, family names end in “ idae” , subfamily names in “ inae ”, and superfamily names in “ oidea ”. As the discipline of Nematology evolves, the classification of genera into subfamilies and families will stabilize. However, in the 21 st century we can expect ongoing changes in family assignments and classification systems with the merger of molecular analyses and systems based on anatomical features and morphometric data."
+ }
+}

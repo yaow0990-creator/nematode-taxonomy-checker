@@ -1,0 +1,1472 @@
+{
+ "_note": "中文属名 -> 拉丁属名 字典。由 scripts/build_cn_dict.py 从 cn_latin_seed.csv 编译。confidence=seed-verified 表示人工核对过；任何由模型推断补充的条目必须标 model-proposed 并在使用前人工确认。",
+ "_count": 180,
+ "entries": {
+  "伪垫刃": {
+   "cn_full": "伪垫刃属",
+   "latin": "Nothotylenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "伪垫刃属"
+  },
+  "茎": {
+   "cn_full": "茎属",
+   "latin": "Ditylenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "茎属"
+  },
+  "刺": {
+   "cn_full": "刺属",
+   "latin": "Belonolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "刺属"
+  },
+  "那格尔": {
+   "cn_full": "那格尔属",
+   "latin": "Nagelus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "那格尔属"
+  },
+  "轮": {
+   "cn_full": "轮属",
+   "latin": "Criconemoides",
+   "aliases": [
+    "Criconrmoides"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "轮属"
+  },
+  "半轮": {
+   "cn_full": "半轮属",
+   "latin": "Hemicriconemoides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "半轮属"
+  },
+  "鞘": {
+   "cn_full": "鞘属",
+   "latin": "Hemicycliophora",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "鞘属"
+  },
+  "环": {
+   "cn_full": "环属",
+   "latin": "Criconema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "环属"
+  },
+  "短体": {
+   "cn_full": "短体属",
+   "latin": "Pratylenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "短体属"
+  },
+  "穿孔": {
+   "cn_full": "穿孔属",
+   "latin": "Radopholus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "穿孔属"
+  },
+  "潜根": {
+   "cn_full": "潜根属",
+   "latin": "Hirschmanniella",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "潜根属"
+  },
+  "盘旋": {
+   "cn_full": "盘旋属",
+   "latin": "Rotylenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "盘旋属"
+  },
+  "螺旋": {
+   "cn_full": "螺旋属",
+   "latin": "Helicotylenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "螺旋属"
+  },
+  "拟盘旋": {
+   "cn_full": "拟盘旋属",
+   "latin": "Pararotylenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拟盘旋属"
+  },
+  "垫刃": {
+   "cn_full": "垫刃属",
+   "latin": "Tylenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "垫刃属"
+  },
+  "剑尾垫刃": {
+   "cn_full": "剑尾垫刃属",
+   "latin": "Malenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "剑尾垫刃属"
+  },
+  "丝尾垫刃": {
+   "cn_full": "丝尾垫刃属",
+   "latin": "Filenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "丝尾垫刃属"
+  },
+  "具脊垫刃": {
+   "cn_full": "具脊垫刃属",
+   "latin": "Coslenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "具脊垫刃属"
+  },
+  "头垫刃": {
+   "cn_full": "头垫刃属",
+   "latin": "Cephalenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "头垫刃属"
+  },
+  "细纹垫刃": {
+   "cn_full": "细纹垫刃属",
+   "latin": "Lelenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "细纹垫刃属"
+  },
+  "叉针": {
+   "cn_full": "叉针属",
+   "latin": "Boleodorus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "叉针属"
+  },
+  "裸矛": {
+   "cn_full": "裸矛属",
+   "latin": "Psilenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "裸矛属"
+  },
+  "新平滑垫刃": {
+   "cn_full": "新平滑垫刃属",
+   "latin": "Neopsilenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "新平滑垫刃属"
+  },
+  "矮化": {
+   "cn_full": "矮化属",
+   "latin": "Tylenchorhynchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "矮化属"
+  },
+  "克拉克": {
+   "cn_full": "克拉克属",
+   "latin": "Clarkus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "克拉克属"
+  },
+  "滑刃": {
+   "cn_full": "滑刃属",
+   "latin": "Aphelenchoides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "滑刃属"
+  },
+  "真滑刃": {
+   "cn_full": "真滑刃属",
+   "latin": "Aphelenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "真滑刃属"
+  },
+  "咽针": {
+   "cn_full": "咽针属",
+   "latin": "Laimydorus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "咽针属"
+  },
+  "扭沟": {
+   "cn_full": "扭沟属",
+   "latin": "Plectonchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "扭沟属"
+  },
+  "畸头": {
+   "cn_full": "畸头属",
+   "latin": "Teratocephalus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "畸头属"
+  },
+  "浅腔": {
+   "cn_full": "浅腔属",
+   "latin": "Panagrellus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "浅腔属"
+  },
+  "拟鳗线": {
+   "cn_full": "拟鳗线属",
+   "latin": "Anguilluloides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拟鳗线属"
+  },
+  "哈利头叶": {
+   "cn_full": "哈利头叶属",
+   "latin": "Halicephalobus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "哈利头叶属"
+  },
+  "三唇": {
+   "cn_full": "三唇属",
+   "latin": "Trilabiatus",
+   "aliases": [],
+   "confidence": "seed-unresolved",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "三唇属"
+  },
+  "头叶": {
+   "cn_full": "头叶属",
+   "latin": "Cephalobus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "头叶属"
+  },
+  "真头叶": {
+   "cn_full": "真头叶属",
+   "latin": "Eucephalobus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "真头叶属"
+  },
+  "拟丽突": {
+   "cn_full": "拟丽突属",
+   "latin": "Acrobeloides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拟丽突属"
+  },
+  "板唇": {
+   "cn_full": "板唇属",
+   "latin": "Chiloplacus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "板唇属"
+  },
+  "丽突": {
+   "cn_full": "丽突属",
+   "latin": "Acrobeles",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "丽突属"
+  },
+  "鹿角唇": {
+   "cn_full": "鹿角唇属",
+   "latin": "Cervidellus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "鹿角唇属"
+  },
+  "齿杆": {
+   "cn_full": "齿杆属",
+   "latin": "Odontorhabditis",
+   "aliases": [],
+   "confidence": "seed-unresolved",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "齿杆属"
+  },
+  "小杆": {
+   "cn_full": "小杆属",
+   "latin": "Rhabditis",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "小杆属"
+  },
+  "原杆": {
+   "cn_full": "原杆属",
+   "latin": "Protorhabditis",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "原杆属"
+  },
+  "中杆": {
+   "cn_full": "中杆属",
+   "latin": "Mesorhabditis",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "中杆属"
+  },
+  "广杆": {
+   "cn_full": "广杆属",
+   "latin": "Caenorhabditis",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "广杆属"
+  },
+  "异咽": {
+   "cn_full": "异咽属",
+   "latin": "Poikilolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "异咽属"
+  },
+  "三等齿": {
+   "cn_full": "三等齿属",
+   "latin": "Pelodera",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "三等齿属"
+  },
+  "伪双胃": {
+   "cn_full": "伪双胃属",
+   "latin": "Pseudodiplogasteroides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "伪双胃属"
+  },
+  "中轮": {
+   "cn_full": "中轮属",
+   "latin": "Criconemoides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "中轮属"
+  },
+  "单齿": {
+   "cn_full": "单齿属",
+   "latin": "Mononchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "单齿属"
+  },
+  "锯齿": {
+   "cn_full": "锯齿属",
+   "latin": "Prionchulus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "锯齿属"
+  },
+  "伪杆咽": {
+   "cn_full": "伪杆咽属",
+   "latin": "Rhabditolaimus",
+   "aliases": [
+    "Rhabdontolaimus"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "伪杆咽属"
+  },
+  "单宫": {
+   "cn_full": "单宫属",
+   "latin": "Monhystera",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "单宫属"
+  },
+  "小单宫": {
+   "cn_full": "小单宫属",
+   "latin": "Monhystrella",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "小单宫属"
+  },
+  "涎线": {
+   "cn_full": "涎线属",
+   "latin": "Sinanema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "涎线属"
+  },
+  "真单宫": {
+   "cn_full": "真单宫属",
+   "latin": "Eumonhystera",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "真单宫属"
+  },
+  "野外垫刃": {
+   "cn_full": "野外垫刃属",
+   "latin": "Aglenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "野外垫刃属"
+  },
+  "垫咽": {
+   "cn_full": "垫咽属",
+   "latin": "Tylencholaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "垫咽属"
+  },
+  "狄咽": {
+   "cn_full": "狄咽属",
+   "latin": "Discolaimium",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "狄咽属"
+  },
+  "大矛": {
+   "cn_full": "大矛属",
+   "latin": "Enchodelus",
+   "aliases": [
+    "Enchodelu"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "大矛属"
+  },
+  "孔咽": {
+   "cn_full": "孔咽属",
+   "latin": "Aporcelaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "孔咽属"
+  },
+  "短矛": {
+   "cn_full": "短矛属",
+   "latin": "Doryllium",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "短矛属"
+  },
+  "瘤咽": {
+   "cn_full": "瘤咽属",
+   "latin": "Tylencholaimellus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "瘤咽属"
+  },
+  "无咽": {
+   "cn_full": "无咽属",
+   "latin": "Alaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "无咽属"
+  },
+  "原细齿": {
+   "cn_full": "原细齿属",
+   "latin": "Proleptonchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "原细齿属"
+  },
+  "毛刺": {
+   "cn_full": "毛刺属",
+   "latin": "Trichodorus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "毛刺属"
+  },
+  "中矛线": {
+   "cn_full": "中矛线属",
+   "latin": "Mesodorylaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "中矛线属"
+  },
+  "前矛线": {
+   "cn_full": "前矛线属",
+   "latin": "Prodorylaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "前矛线属"
+  },
+  "表矛线": {
+   "cn_full": "表矛线属",
+   "latin": "Epidorylaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "表矛线属"
+  },
+  "小矛线": {
+   "cn_full": "小矛线属",
+   "latin": "Microdorylaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "小矛线属"
+  },
+  "卡勃": {
+   "cn_full": "卡勃属",
+   "latin": "Cobbonchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "卡勃属"
+  },
+  "穿咽": {
+   "cn_full": "穿咽属",
+   "latin": "Nygolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "穿咽属"
+  },
+  "类矛线": {
+   "cn_full": "类矛线属",
+   "latin": "Amphidorylaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "类矛线属"
+  },
+  "膜皮": {
+   "cn_full": "膜皮属",
+   "latin": "Diphtherophora",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "膜皮属"
+  },
+  "长针": {
+   "cn_full": "长针属",
+   "latin": "Longidorus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "长针属"
+  },
+  "剑": {
+   "cn_full": "剑属",
+   "latin": "Xiphinema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "剑属"
+  },
+  "矛线": {
+   "cn_full": "矛线属",
+   "latin": "Dorylaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "矛线属"
+  },
+  "拱唇": {
+   "cn_full": "拱唇属",
+   "latin": "Labronema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拱唇属"
+  },
+  "真矛线": {
+   "cn_full": "真矛线属",
+   "latin": "Eudorylaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "真矛线属"
+  },
+  "类管咽": {
+   "cn_full": "类管咽属",
+   "latin": "Aulolaimoides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "类管咽属"
+  },
+  "颚针": {
+   "cn_full": "颚针属",
+   "latin": "Belondira",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "颚针属"
+  },
+  "狭咽": {
+   "cn_full": "狭咽属",
+   "latin": "Discolaimium",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "狭咽属"
+  },
+  "散香": {
+   "cn_full": "散香属",
+   "latin": "Boleodorus",
+   "aliases": [
+    "Beleodorus"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "散香属"
+  },
+  "色矛": {
+   "cn_full": "色矛属",
+   "latin": "Chromadorita",
+   "aliases": [
+    "ChrPradorita"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "色矛属"
+  },
+  "三孔": {
+   "cn_full": "三孔属",
+   "latin": "Tripyla",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "三孔属"
+  },
+  "绕线": {
+   "cn_full": "绕线属",
+   "latin": "Plectus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "绕线属"
+  },
+  "无齿": {
+   "cn_full": "无齿属",
+   "latin": "Anonchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "无齿属"
+  },
+  "角绕线": {
+   "cn_full": "角绕线属",
+   "latin": "Ceratoplectus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "角绕线属"
+  },
+  "唇绕线": {
+   "cn_full": "唇绕线属",
+   "latin": "Chiloplectus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "唇绕线属"
+  },
+  "威尔斯": {
+   "cn_full": "威尔斯属",
+   "latin": "Wilsonema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "威尔斯属"
+  },
+  "角咽": {
+   "cn_full": "角咽属",
+   "latin": "Actinolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "角咽属"
+  },
+  "双胃": {
+   "cn_full": "双胃属",
+   "latin": "Diplogaster",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "双胃属"
+  },
+  "后双胃": {
+   "cn_full": "后双胃属",
+   "latin": "Metadiplogaster",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "后双胃属"
+  },
+  "管咽": {
+   "cn_full": "管咽属",
+   "latin": "Aulolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "管咽属"
+  },
+  "类双胃": {
+   "cn_full": "类双胃属",
+   "latin": "Diplogasteroides",
+   "aliases": [
+    "Diplogsteroides"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "类双胃属"
+  },
+  "肾状": {
+   "cn_full": "肾状属",
+   "latin": "Rotylenchulus",
+   "aliases": [
+    "Rotylenchus"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "肾状属"
+  },
+  "棱咽": {
+   "cn_full": "棱咽属",
+   "latin": "Prismatolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "棱咽属"
+  },
+  "小双胃": {
+   "cn_full": "小双胃属",
+   "latin": "Diplogastrellus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "小双胃属"
+  },
+  "嘴刺": {
+   "cn_full": "嘴刺属",
+   "latin": "Enoploides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "嘴刺属"
+  },
+  "针": {
+   "cn_full": "针属",
+   "latin": "Paratylenchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "针属"
+  },
+  "短体长针": {
+   "cn_full": "短体长针属",
+   "latin": "Longidorella",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "短体长针属"
+  },
+  "小剑": {
+   "cn_full": "小剑属",
+   "latin": "Xiphinemella",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "小剑属"
+  },
+  "短针": {
+   "cn_full": "短针属",
+   "latin": "Brachydorus",
+   "aliases": [
+    "Brachyderus"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "短针属"
+  },
+  "柄端球": {
+   "cn_full": "柄端球属",
+   "latin": "Paurodontus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "柄端球属"
+  },
+  "异球": {
+   "cn_full": "异球属",
+   "latin": "Stictylus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "异球属"
+  },
+  "齿咽": {
+   "cn_full": "齿咽属",
+   "latin": "Odontopharynx",
+   "aliases": [
+    "Odotopharynx"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "齿咽属"
+  },
+  "盆咽": {
+   "cn_full": "盆咽属",
+   "latin": "Panagrolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "盆咽属"
+  },
+  "短腔": {
+   "cn_full": "短腔属",
+   "latin": "Brevibucca",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "短腔属"
+  },
+  "刺咽": {
+   "cn_full": "刺咽属",
+   "latin": "Belonolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "刺咽属"
+  },
+  "盘腔": {
+   "cn_full": "盘腔属",
+   "latin": "Discomyctus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "盘腔属"
+  },
+  "盘咽": {
+   "cn_full": "盘咽属",
+   "latin": "Discolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "盘咽属"
+  },
+  "锐咽": {
+   "cn_full": "锐咽属",
+   "latin": "Carcharolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "锐咽属"
+  },
+  "缢咽": {
+   "cn_full": "缢咽属",
+   "latin": "Axonchium",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "缢咽属"
+  },
+  "类缢咽": {
+   "cn_full": "类缢咽属",
+   "latin": "Paraxonchium",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "类缢咽属"
+  },
+  "类隐咽": {
+   "cn_full": "类隐咽属",
+   "latin": "Paraphanolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "类隐咽属"
+  },
+  "隐咽": {
+   "cn_full": "隐咽属",
+   "latin": "Aphanolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "隐咽属"
+  },
+  "扁腔": {
+   "cn_full": "扁腔属",
+   "latin": "Sectonema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "扁腔属"
+  },
+  "拟杯咽": {
+   "cn_full": "拟杯咽属",
+   "latin": "Paracyatholaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拟杯咽属"
+  },
+  "微咽": {
+   "cn_full": "微咽属",
+   "latin": "Microlaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "微咽属"
+  },
+  "小穿咽": {
+   "cn_full": "小穿咽属",
+   "latin": "Nygolaimellus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "小穿咽属"
+  },
+  "无孔小咽": {
+   "cn_full": "无孔小咽属",
+   "latin": "Aporcelaimellus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "无孔小咽属"
+  },
+  "峡瓣": {
+   "cn_full": "峡瓣属",
+   "latin": "Swangeria",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "峡瓣属"
+  },
+  "高杯侧": {
+   "cn_full": "高杯侧属",
+   "latin": "Amphidelus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "高杯侧属"
+  },
+  "异双胃": {
+   "cn_full": "异双胃属",
+   "latin": "Diplogasteriana",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "异双胃属"
+  },
+  "拟绕线": {
+   "cn_full": "拟绕线属",
+   "latin": "Anaplectus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拟绕线属"
+  },
+  "瓣唇": {
+   "cn_full": "瓣唇属",
+   "latin": "Panagrobelus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "瓣唇属"
+  },
+  "钩唇": {
+   "cn_full": "钩唇属",
+   "latin": "Diploscapter",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "钩唇属"
+  },
+  "突腔唇": {
+   "cn_full": "突腔唇属",
+   "latin": "Ecphyadophora",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "突腔唇属"
+  },
+  "类突腔唇": {
+   "cn_full": "类突腔唇属",
+   "latin": "Tenunemellus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "类突腔唇属"
+  },
+  "供唇": {
+   "cn_full": "供唇属",
+   "latin": "Labronema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "供唇属"
+  },
+  "下齿": {
+   "cn_full": "下齿属",
+   "latin": "Hypodontolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "下齿属"
+  },
+  "锉齿": {
+   "cn_full": "锉齿属",
+   "latin": "Mylonchulus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "锉齿属"
+  },
+  "螯": {
+   "cn_full": "螯属",
+   "latin": "Pungentus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "螯属"
+  },
+  "基齿": {
+   "cn_full": "基齿属",
+   "latin": "Iotonchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "基齿属"
+  },
+  "倒齿": {
+   "cn_full": "倒齿属",
+   "latin": "Anatonchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "倒齿属"
+  },
+  "独壁齿": {
+   "cn_full": "独壁齿属",
+   "latin": "Campydora",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "独壁齿属"
+  },
+  "细齿": {
+   "cn_full": "细齿属",
+   "latin": "Leptonchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "细齿属"
+  },
+  "原色矛": {
+   "cn_full": "原色矛属",
+   "latin": "Prochromadora",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "原色矛属"
+  },
+  "单色矛": {
+   "cn_full": "单色矛属",
+   "latin": "Monochromadora",
+   "aliases": [],
+   "confidence": "seed-unresolved",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "单色矛属"
+  },
+  "异色矛": {
+   "cn_full": "异色矛属",
+   "latin": "Achromadora",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "异色矛属"
+  },
+  "拟矛线": {
+   "cn_full": "拟矛线属",
+   "latin": "Dorylaimoides",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拟矛线属"
+  },
+  "等齿": {
+   "cn_full": "等齿属",
+   "latin": "Miconchus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "等齿属"
+  },
+  "长杆": {
+   "cn_full": "长杆属",
+   "latin": "Dolichorhabditis",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "长杆属"
+  },
+  "明杆": {
+   "cn_full": "明杆属",
+   "latin": "Rhabditophanes",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "明杆属"
+  },
+  "拟毛刺": {
+   "cn_full": "拟毛刺属",
+   "latin": "Paratrichodorus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拟毛刺属"
+  },
+  "板环": {
+   "cn_full": "板环属",
+   "latin": "Placodira",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "板环属"
+  },
+  "嗜腐": {
+   "cn_full": "嗜腐属",
+   "latin": "Micoletzkya",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "嗜腐属"
+  },
+  "真畸头": {
+   "cn_full": "真畸头属",
+   "latin": "Euteratocephalus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "真畸头属"
+  },
+  "威尔疣线": {
+   "cn_full": "威尔疣线属",
+   "latin": "Wilsonema",
+   "aliases": [
+    "Wilsotylus"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "威尔疣线属"
+  },
+  "金线": {
+   "cn_full": "金线属",
+   "latin": "Chrysonema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "金线属"
+  },
+  "图鲁玛那瓦": {
+   "cn_full": "图鲁玛那瓦属",
+   "latin": "Torumanawa",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "图鲁玛那瓦属"
+  },
+  "齿腔": {
+   "cn_full": "齿腔属",
+   "latin": "Odontolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "齿腔属"
+  },
+  "三裂体": {
+   "cn_full": "三裂体属",
+   "latin": "Trischistoma",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "三裂体属"
+  },
+  "索努斯": {
+   "cn_full": "索努斯属",
+   "latin": "Thonus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "索努斯属"
+  },
+  "巴氏": {
+   "cn_full": "巴氏属",
+   "latin": "Bastiania",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "巴氏属"
+  },
+  "张伯塞线虫": {
+   "cn_full": "张伯塞线虫属",
+   "latin": "Chambersiella",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "张伯塞线虫属"
+  },
+  "根结": {
+   "cn_full": "根结属",
+   "latin": "Meloidogyne",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "根结属"
+  },
+  "丝尾": {
+   "cn_full": "丝尾属",
+   "latin": "Oxydirus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "丝尾属"
+  },
+  "艾端": {
+   "cn_full": "艾端属",
+   "latin": "Ereptonema",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "艾端属"
+  },
+  "异皮": {
+   "cn_full": "异皮属",
+   "latin": "Heterodera",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "异皮属"
+  },
+  "钵盘": {
+   "cn_full": "钵盘属",
+   "latin": "Mylodiscus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "钵盘属"
+  },
+  "刻点": {
+   "cn_full": "刻点属",
+   "latin": "Punctodora",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "刻点属"
+  },
+  "沟环": {
+   "cn_full": "沟环属",
+   "latin": "Ogma",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "沟环属"
+  },
+  "地单宫": {
+   "cn_full": "地单宫属",
+   "latin": "Geomonhystera",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "地单宫属"
+  },
+  "锥": {
+   "cn_full": "锥属",
+   "latin": "Dolichodorus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "锥属"
+  },
+  "拟桑尼": {
+   "cn_full": "拟桑尼属",
+   "latin": "Thorneella",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "拟桑尼属"
+  },
+  "单棘": {
+   "cn_full": "单棘属",
+   "latin": "Mononchulus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "单棘属"
+  },
+  "沙丽": {
+   "cn_full": "沙丽属",
+   "latin": "Sarisodera",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "沙丽属"
+  },
+  "伊龙": {
+   "cn_full": "伊龙属",
+   "latin": "Ironus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "伊龙属"
+  },
+  "托布利": {
+   "cn_full": "托布利属",
+   "latin": "Tobrilus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "托布利属"
+  },
+  "桑尼": {
+   "cn_full": "桑尼属",
+   "latin": "Thornia",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "桑尼属"
+  },
+  "园顶": {
+   "cn_full": "园顶属",
+   "latin": "Domorganus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "园顶属"
+  },
+  "微线": {
+   "cn_full": "微线属",
+   "latin": "Micronema",
+   "aliases": [],
+   "confidence": "seed-unresolved",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "微线属"
+  },
+  "连胃": {
+   "cn_full": "连胃属",
+   "latin": "Chronogaster",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "连胃属"
+  },
+  "大节片": {
+   "cn_full": "大节片属",
+   "latin": "Mesocriconema",
+   "aliases": [
+    "Macroposthonia"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "大节片属"
+  },
+  "角头": {
+   "cn_full": "角头属",
+   "latin": "Tylocephalus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "角头属"
+  },
+  "威尔斯疣线": {
+   "cn_full": "威尔斯疣线属",
+   "latin": "Wilsonema",
+   "aliases": [
+    "Wilsotylus"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "威尔斯疣线属"
+  },
+  "杆咽": {
+   "cn_full": "杆咽属",
+   "latin": "Rhabdolaimus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "杆咽属"
+  },
+  "异齿": {
+   "cn_full": "异齿属",
+   "latin": "Judonchulus",
+   "aliases": [
+    "Fudonchulus"
+   ],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "异齿属"
+  },
+  "巨宫": {
+   "cn_full": "巨宫属",
+   "latin": "Tylolaimophorus",
+   "aliases": [],
+   "confidence": "seed-verified",
+   "source": "user table 2026-09 (verified against Nemaplex)",
+   "also_written_as": "巨宫属"
+  }
+ }
+}

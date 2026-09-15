@@ -1,0 +1,185 @@
+{
+ "source": "http://nemaplex.ucdavis.edu/Taxadata/Classes.htm",
+ "modern": {
+  "classes": [
+   "Enoplea",
+   "Chromadorea"
+  ],
+  "subclasses": [
+   "Enoplia",
+   "Dorylaimia",
+   "Chromadoria"
+  ],
+  "subclass_of_class": {
+   "Enoplia": "Enoplea",
+   "Dorylaimia": "Enoplea",
+   "Chromadoria": "Chromadorea"
+  },
+  "orders_by_subclass": {
+   "Enoplia": [
+    "Enoplida",
+    "Triplonchida"
+   ],
+   "Dorylaimia": [
+    "Dorylaimida",
+    "Mermithida",
+    "Mononchida",
+    "Dioctophymatida",
+    "Trichinellida",
+    "Isolaimiida",
+    "Muspiceida",
+    "Marimermithida"
+   ],
+   "Chromadoria": [
+    "Rhabditida",
+    "Plectida",
+    "Araeolaimida",
+    "Monhysterida",
+    "Desmodorida",
+    "Desmoscolecida",
+    "Chromadorida",
+    "Microlaimida"
+   ]
+  },
+  "orders_by_class": {
+   "Enoplea": [
+    "Enoplida",
+    "Dorylaimida",
+    "Triplonchida",
+    "Mermithida",
+    "Mononchida",
+    "Dioctophymatida",
+    "Trichinellida",
+    "Isolaimiida",
+    "Muspiceida",
+    "Marimermithida"
+   ],
+   "Chromadorea": [
+    "Rhabditida",
+    "Plectida",
+    "Araeolaimida",
+    "Monhysterida",
+    "Desmodorida",
+    "Desmoscolecida",
+    "Chromadorida",
+    "Microlaimida"
+   ]
+  },
+  "orders": [
+   "Enoplida",
+   "Dorylaimida",
+   "Rhabditida",
+   "Triplonchida",
+   "Mermithida",
+   "Plectida",
+   "Mononchida",
+   "Araeolaimida",
+   "Dioctophymatida",
+   "Monhysterida",
+   "Trichinellida",
+   "Desmodorida",
+   "Isolaimiida",
+   "Desmoscolecida",
+   "Muspiceida",
+   "Chromadorida",
+   "Marimermithida",
+   "Microlaimida"
+  ]
+ },
+ "classical": {
+  "classes": [
+   "Adenophorea",
+   "Secernentea"
+  ],
+  "subclasses": [
+   "Enoplia",
+   "Chromadoria",
+   "Rhabditia",
+   "Spiruria",
+   "Diplogastria"
+  ],
+  "subclass_of_class": {
+   "Enoplia": "Adenophorea",
+   "Chromadoria": "Adenophorea",
+   "Rhabditia": "Secernentea",
+   "Spiruria": "Secernentea",
+   "Diplogastria": "Secernentea"
+  },
+  "orders_by_subclass": {
+   "Enoplia": [
+    "Enoplida",
+    "Isolaimiida",
+    "Mononchida",
+    "Dorylaimida",
+    "Stichosomida",
+    "Triplonchida"
+   ],
+   "Chromadoria": [
+    "Araeolaimida",
+    "Chromadorida",
+    "Desmoscolecida",
+    "Desmodorida",
+    "Monhysterida"
+   ],
+   "Rhabditia": [
+    "Rhabditida",
+    "Strongylida"
+   ],
+   "Spiruria": [
+    "Spirurida",
+    "Ascarida",
+    "Camallanida",
+    "Drilonematida"
+   ],
+   "Diplogastria": [
+    "Diplogastrida"
+   ]
+  },
+  "orders_by_class": {
+   "Adenophorea": [
+    "Enoplida",
+    "Araeolaimida",
+    "Isolaimiida",
+    "Chromadorida",
+    "Mononchida",
+    "Desmoscolecida",
+    "Dorylaimida",
+    "Desmodorida",
+    "Stichosomida",
+    "Monhysterida",
+    "Triplonchida"
+   ],
+   "Secernentea": [
+    "Rhabditida",
+    "Spirurida",
+    "Diplogastrida",
+    "Strongylida",
+    "Ascarida",
+    "Camallanida",
+    "Drilonematida"
+   ]
+  },
+  "orders": [
+   "Enoplida",
+   "Araeolaimida",
+   "Rhabditida",
+   "Spirurida",
+   "Diplogastrida",
+   "Isolaimiida",
+   "Chromadorida",
+   "Strongylida",
+   "Ascarida",
+   "Mononchida",
+   "Desmoscolecida",
+   "Camallanida",
+   "Dorylaimida",
+   "Desmodorida",
+   "Drilonematida",
+   "Stichosomida",
+   "Monhysterida",
+   "Triplonchida"
+  ]
+ },
+ "text": "Classes of Phylum Nemata Phylum Nematoda Rev 01/09/2025 Classes, Sub-classes and Orders Modern Classification Based on small subunit ribosomal DNA (SSU rDNA). The small subunit is the 16s component of the rDNA. Current (2001, 2002, 2004 and 2006) integration by Paul de Ley (UC Riverside) and Mark Blaxter (University of Edinburgh). Modern Phylogeny Menu (De Ley and Blaxter, 2002) Nematoda Enoplea Chromadorea Enoplia Dorylaimia Chromadoria Enoplida Dorylaimida Rhabditida Triplonchida Mermithida Plectida Mononchida Araeolaimida Dioctophymatida Monhysterida Trichinellida Desmodorida Isolaimiida Desmoscolecida Muspiceida Chromadorida Marimermithida Microlaimida Key to the Orders of Nematoda Return to Nemaplex Main Menu Classical Phylogeny Menu (Chitwood, 1958) In a classical morphology-based classification system of the Nematoda there are five sub-classes and nineteen orders; those that contain plant-feeding genera are marked with an asterisk (*). Nematoda Adenophorea Secernentea Enoplia Chromadoria Rhabditia Spiruria Diplogastria Enoplida Araeolaimida Rhabditida Spirurida Diplogastrida Isolaimiida Chromadorida Strongylida Ascarida * Chromadorea Rhabditida ; Mononchida Desmoscolecida Camallanida * Dorylaimida Desmodorida Drilonematida Stichosomida Monhysterida * Triplonchida Key to the Orders of Nematoda Return to Nemaplex Main Menu Return to Nematoda Menu Comparison of Morphology- and DNA-based Classifications: Classification Based on Classical Morphology Adenophorea Secernentea Enoplia Chromadoria Rhabditia Spiruria Diplogastria Enoplida Araeolaimida Rhabditida Spirurida Diplogastrida Isolaimiida Chromadorida Strongylida Ascarida * Chromadorea Rhabditida &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;a href=&quot;Rhabdida.htm&quot;&gt;Rhabditida&lt;/a&gt;&lt;br&gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mononchida Desmoscolecida Camallanida * Dorylaimida Desmodorida Drilonematida Stichosomida Monhysterida * Triplonchida Modern Classification Based on SSU rDNA Enoplea Chromadorea Enoplia Dorylaimia Chromadoria Enoplida Dorylaimida Rhabditida Triplonchida Mermithida Plectida Mononchida Araeolaimida Dioctophymatida Monhysterida Trichinellida Desmodorida Isolaimiida Desmoscolecida Muspiceida Chromadorida Marimermithida Microlaimida Classical Morphological Basis Modern SSU rDNA Basis The classification of organisms above the genus and species levels is not governed by the International Rules of Zoological Nomenclature. In essence, higher classification schemes represent expert opinion based on available evidence. Several classification systems have been proposed for nematodes. New opinions on the relationships among taxa are emerging from molecular data. At the present time, we will use for Nemaplex a widely accepted scheme based on nematode morphological and anatomical characters. Classes Classes Sub-classes Sub-classes Orders Orders Comparison References Key to the Orders of Nematoda Return to Nematoda Menu Other classification categories: mode of parasitism feeding habits habitats and distribution Name endings of different levels of taxonomic organization: classes (ea) sub-classes (ia) orders (ida) sub-orders (ina) superfamilies (oidea) families (idae) sub-families (inae) Classes The Phylum Nematoda consists of two classes in both Classical and Modern Classification Systems: Classical System Modern System Class Secernentea 1. pore-like or slit-like amphid apertures - labial. 2. deirids present in some, near nerve ring. 3. phasmids present, generally posterior. 4. excretory system tubular. 5. cuticle 2 to 4 layers, striated; lateral field present. 6. esophagus varies but has 3 esophageal glands . 7. male generally with 1 testis . 8. caudal alae common. 9. sensory papillae cephalic only, although may be caudal papillae in males. 10. almost exclusively terrestrial, rarely freshwater or marine. Class Chromadorea 1. pore-like or slit-like amphid apertures vary from labial pores or slits to post-labial elaborate coils and spirals. 2. cutic",
+ "note": "Modern system follows De Ley & Blaxter (SSU rDNA). Classical system follows Chitwood (1958)."
+}

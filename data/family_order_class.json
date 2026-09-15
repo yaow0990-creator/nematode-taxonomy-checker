@@ -1,0 +1,2633 @@
+{
+ "Achromadoridae": {
+  "raw": "Chromadorea Chromadoria Chromadorida Chromadorina Chromadoroidea",
+  "family": "Achromadoridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "Chromadorina",
+  "superfamily": "Chromadoroidea"
+ },
+ "Actinolaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Actinolaimidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Acuariidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Acuarioidea",
+  "family": "Acuariidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Acuarioidea"
+ },
+ "Aegialoalaimidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Leptolaimoidea",
+  "family": "Aegialoalaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Leptolaimoidea"
+ },
+ "Aetholaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Nygolaimina Nygolaimoidea",
+  "family": "Aetholaimidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Nygolaimina",
+  "superfamily": "Nygolaimoidea"
+ },
+ "Agfidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Rhabditoidea",
+  "family": "Agfidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Rhabditoidea"
+ },
+ "Alaimidae": {
+  "raw": "Enoplea Enoplia Enoplida Alaimina Alaimoidea",
+  "family": "Alaimidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Alaimina",
+  "superfamily": "Alaimoidea"
+ },
+ "Alaninematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Panagrolaimoidea",
+  "family": "Alaninematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Panagrolaimoidea"
+ },
+ "Alirhabditidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Panagrolaimoidea",
+  "family": "Alirhabditidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Panagrolaimoidea"
+ },
+ "Allantonematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Iotonchoidea",
+  "family": "Allantonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Iotonchoidea"
+ },
+ "Alloionematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Strongyloidoidea",
+  "family": "Alloionematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Strongyloidoidea"
+ },
+ "Amphibiophilidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Molineoidea",
+  "family": "Amphibiophilidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Molineoidea"
+ },
+ "Amphidelidae": {
+  "raw": "Enoplea Enoplia Enoplida Alaimina Alaimoidea",
+  "family": "Amphidelidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Alaimina",
+  "superfamily": "Alaimoidea"
+ },
+ "Anatonchidae": {
+  "raw": "Enoplea Dorylaimia Mononchida Mononchina Anatonchoidea",
+  "family": "Anatonchidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mononchida",
+  "suborder": "Mononchina",
+  "superfamily": "Anatonchoidea"
+ },
+ "Anatrichosomatidae": {
+  "raw": "Enoplea Dorylaimia Trichinellida Trichinellina Trichinelloidea",
+  "family": "Antridae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Trichinellida",
+  "suborder": "Trichinellina",
+  "superfamily": "Trichinelloidea"
+ },
+ "Ancylostomatidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Ancylostomatoidea",
+  "family": "Ancylostomatidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Ancylostomatoidea"
+ },
+ "Andrassyidae": {
+  "raw": "Enoplea Enoplia Enoplida",
+  "family": "Andrassyidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "",
+  "superfamily": ""
+ },
+ "Angiostomatidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Rhabditoidea",
+  "family": "Angiostomatidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Rhabditoidea"
+ },
+ "Angiostrongylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Metastrongyloidea",
+  "family": "Angiostrongylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Metastrongyloidea"
+ },
+ "Anguillicolidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Anguillicolidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Anguinidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Anguinidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Anisakidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Ascaridoidea",
+  "family": "Anisakidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Ascaridoidea"
+ },
+ "Anoplostomatidae": {
+  "raw": "Enoplea Enoplia Enoplida Enoplina Enoploidea",
+  "family": "Anoplostomatidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Enoplina",
+  "superfamily": "Enoploidea"
+ },
+ "Anticomidae": {
+  "raw": "Enoplea Enoplia Enoplida Enoplina Enoploidea",
+  "family": "Anticomidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Enoplina",
+  "superfamily": "Enoploidea"
+ },
+ "Aphanolaimidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Leptolaimoidea",
+  "family": "Aphanolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Leptolaimoidea"
+ },
+ "Aphelenchidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Aphelenchoidea",
+  "family": "Aphelenchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Aphelenchoidea"
+ },
+ "Aphelenchoididae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Aphelenchoidea",
+  "family": "Aphelenchoididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Aphelenchoidea"
+ },
+ "Aponchiidae": {
+  "raw": "Chromadorea Chromadoria Microlaimina Microlaimoidea",
+  "family": "Aponchiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Microlaimida",
+  "suborder": "Microlaimina",
+  "superfamily": "Microlaimoidea",
+  "order_source": "inferred-from-suborder"
+ },
+ "Aporcelaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Aporcelaimidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Aproctidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Aproctoidea",
+  "family": "Aproctidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Aproctoidea"
+ },
+ "Araeolaimidae": {
+  "raw": "Chromadorea Chromadoria Araeolaimida Araeolaimina Araeolaimoidea",
+  "family": "Araeolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Araeolaimida",
+  "suborder": "Araeolaimina",
+  "superfamily": "Araeolaimoidea"
+ },
+ "Ascarididae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Ascaridoidea",
+  "family": "Ascarididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Ascaridoidea"
+ },
+ "Ascaridiidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Heterakoidea",
+  "family": "Ascaridiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Heterakoidea"
+ },
+ "Aspidoderidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Heterakoidea",
+  "family": "Aspidoderidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Heterakoidea"
+ },
+ "Atractidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Cosmocercoidea",
+  "family": "Atractidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Cosmocercoidea"
+ },
+ "Aulolaimidae": {
+  "raw": "Enoplea Dorylaimia Isolaimiida Aulolaimina Aulolaimoidea",
+  "family": "Aullidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Isolaimiida",
+  "suborder": "Aulolaimina",
+  "superfamily": "Aulolaimoidea"
+ },
+ "Aulolaimoididae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Tylencholaimoidea",
+  "family": "Aulolaimoididae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Tylencholaimoidea"
+ },
+ "Axonolaimidae": {
+  "raw": "Chromadorea Chromadoria Araeolaimida Araeolaimina Araeolaimoidea",
+  "family": "Axonolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Araeolaimida",
+  "suborder": "Araeolaimina",
+  "superfamily": "Araeolaimoidea"
+ },
+ "Bastianiidae": {
+  "raw": "Enoplea Enoplia Triplonchida",
+  "family": "Bastianiidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "",
+  "superfamily": ""
+ },
+ "Bathyodontidae": {
+  "raw": "Enoplea Dorylaimia Mononchida Bathyodontina Cryptonchoidea",
+  "family": "Bathidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mononchida",
+  "suborder": "Bathyodontina",
+  "superfamily": "Cryptonchoidea"
+ },
+ "Belondiridae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Belondiroidea",
+  "family": "Bldridae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Belondiroidea"
+ },
+ "Benthimermithidae": {
+  "raw": "Enoplea Dorylaimia Marimermithida Marimermithina Marimermithoidea",
+  "family": "Benthimermithidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Marimermithida",
+  "suborder": "Marimermithina",
+  "superfamily": "Marimermithoidea"
+ },
+ "Bicirronematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Cephaloboidea",
+  "family": "Bicirronematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Cephaloboidea"
+ },
+ "Bodonematidae": {
+  "raw": "Chromadorea Chromadoria Araeolaimida Araeolaimina Araeolaimoidea",
+  "family": "Bodonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Araeolaimida",
+  "suborder": "Araeolaimina",
+  "superfamily": "Araeolaimoidea"
+ },
+ "Boehmiellidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Heligmosomoidea",
+  "family": "Boehmiellidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Heligmosomoidea"
+ },
+ "Brevibuccidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Panagrolaimoidea",
+  "family": "Brevibuccidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Panagrolaimoidea"
+ },
+ "Bunonematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Bunonematoidea",
+  "family": "Bunonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Bunonematoidea"
+ },
+ "Camacolaimidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Camacolaimoidea",
+  "family": "Camacolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Camacolaimoidea"
+ },
+ "Camallanidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Camallanoidea",
+  "family": "Camallanidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Camallanoidea"
+ },
+ "Campydoridae": {
+  "raw": "Enoplea Enoplia Enoplida Campydorina Campydoroidea",
+  "family": "Campydoridae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Campydorina",
+  "superfamily": "Campydoroidea"
+ },
+ "Capillariidae": {
+  "raw": "Enoplea Dorylaimia Trichinellida Trichinellina Trichinelloidea",
+  "family": "Capiidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Trichinellida",
+  "suborder": "Trichinellina",
+  "superfamily": "Trichinelloidea"
+ },
+ "Carcharolaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida",
+  "family": "Carcharolaimidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "",
+  "superfamily": ""
+ },
+ "Carnoyidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Ransomnematoidea",
+  "family": "Carnoyidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Ransomnematoidea"
+ },
+ "Cephalobidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Cephaloboidea",
+  "family": "Cephalobidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Cephaloboidea"
+ },
+ "Ceramonematidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Ceramonematoidea",
+  "family": "Ceramonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Ceramonematoidea"
+ },
+ "Chabertiidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Strongyloidea",
+  "family": "Chabertiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Strongyloidea"
+ },
+ "Chambersiellidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Cephalobina Panagrolaimoidea",
+  "family": "Chamidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Cephalobina",
+  "superfamily": "Panagrolaimoidea"
+ },
+ "Chitwoodchabaudiidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Seuratoidea",
+  "family": "Chitwoodchabaudiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Seuratoidea"
+ },
+ "Choanolaimidae": {
+  "raw": "Chromadorea Chromadoria Chromadorida Chromadorina Choanolaimoidea",
+  "family": "Choanolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "Chromadorina",
+  "superfamily": "Choanolaimoidea"
+ },
+ "Chromadoridae": {
+  "raw": "Chromadorea Chromadoria Chromadorida Chromadorina Chromadoroidea",
+  "family": "Chromadoridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "Chromadorina",
+  "superfamily": "Chromadoroidea"
+ },
+ "Chronogastridae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Plectoidea",
+  "family": "Chronogastridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Plectoidea"
+ },
+ "Chrysonematidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Chrysonematidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Cobbonchidae": {
+  "raw": "Enoplea Dorylaimia Mononchida Mononchina Mononchoidea",
+  "family": "Cobbonchidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mononchida",
+  "suborder": "Mononchina",
+  "superfamily": "Mononchoidea"
+ },
+ "Comesomatidae": {
+  "raw": "Chromadorea Chromadoria Chromadorida Chromadorina Comesomatoidea",
+  "family": "Comesomatidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "Chromadorina",
+  "superfamily": "Comesomatoidea"
+ },
+ "Coninckiidae": {
+  "raw": "Chromadorea Chromadoria Araeolaimida Araeolaimina Araeolaimoidea",
+  "family": "Coniidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Araeolaimida",
+  "suborder": "Araeolaimina",
+  "superfamily": "Araeolaimoidea"
+ },
+ "Cooperiidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Trichostrongyloidea",
+  "family": "Cooperiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Trichostrongyloidea"
+ },
+ "Cosmocercidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Cosmocercoidea",
+  "family": "Cosmocercidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Cosmocercoidea"
+ },
+ "Crateronematidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Crateronematidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Creagrocercidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Leptolaimoidea",
+  "family": "Creagrocercidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Leptolaimoidea"
+ },
+ "Crenosomatidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Metastrongyloidea",
+  "family": "Crenosomatidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Metastrongyloidea"
+ },
+ "Criconematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Criconematoidea",
+  "family": "Criconematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Criconematoidea"
+ },
+ "Cryptonchidae": {
+  "raw": "Enoplea Dorylaimia Mononchida Bathyodontina Cryptonchoidea",
+  "family": "Bathidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mononchida",
+  "suborder": "Bathyodontina",
+  "superfamily": "Cryptonchoidea"
+ },
+ "Cucullanidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Seuratoidea",
+  "family": "Cucullanidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Seuratoidea"
+ },
+ "Cyartonematidae": {
+  "raw": "Chromadorea Chromadoria Desmoscolecida Desmoscolecina Desmoscolecoidea",
+  "family": "Cyaridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmoscolecida",
+  "suborder": "Desmoscolecina",
+  "superfamily": "Desmoscolecoidea"
+ },
+ "Cyatholaimidae": {
+  "raw": "Chromadorea Chromadoria Chromadorida Chromadorina Chromadoroidea",
+  "family": "Cyatholaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "Chromadorina",
+  "superfamily": "Chromadoroidea"
+ },
+ "Cylindrocorporidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Cylindrocorporoidea",
+  "family": "Cylindrocorporidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Cylindrocorporoidea"
+ },
+ "Cylindrolaimidae": {
+  "raw": "Chromadorea Chromadoria Chromadoria Araeolaimida Araeolaimoidea",
+  "family": "Cylindrolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Araeolaimida",
+  "suborder": "",
+  "superfamily": "Araeolaimoidea"
+ },
+ "Cystidicolidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Habronematoidea",
+  "family": "Cystidicolidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Habronematoidea"
+ },
+ "Cystoopsidae": {
+  "raw": "Enoplea Dorylaimia Trichinellida Trichinellina Trichinelloidea",
+  "family": "Cystoopsidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Trichinellida",
+  "suborder": "Trichinellina",
+  "superfamily": "Trichinelloidea"
+ },
+ "Daniconematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Daniconematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Dasynemellidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Ceramonematoidea",
+  "family": "",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Ceramonematoidea"
+ },
+ "Deletrocephalidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Strongyloidea",
+  "family": "Deletrocephalidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Strongyloidea"
+ },
+ "Desmidocercidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Aproctoidea",
+  "family": "Desmidocercidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Aproctoidea"
+ },
+ "Desmodoridae": {
+  "raw": "Chromadorea Chromadoria Desmodorida Desmodorina Desmodoroidea",
+  "family": "Desmidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmodorida",
+  "suborder": "Desmodorina",
+  "superfamily": "Desmodoroidea"
+ },
+ "Desmoscolecidae": {
+  "raw": "Chromadorea Chromadoria Desmoscolecida Desmoscolecoidea",
+  "family": "Desmoscolecidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmoscolecida",
+  "suborder": "",
+  "superfamily": "Desmoscolecoidea"
+ },
+ "Diaphanocephalidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Diaphanocephaloidea",
+  "family": "Diaphanocephalidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Diaphanocephaloidea"
+ },
+ "Dictyocaulidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Metastrongyloidea",
+  "family": "Dictyocaulidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Metastrongyloidea"
+ },
+ "Dioctophymatidae": {
+  "raw": "Enoplea Dorylaimia Dioctophymatida Dioctophymatoidea",
+  "family": "Dioctophymatidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dioctophymatida",
+  "suborder": "",
+  "superfamily": "Dioctophymatoidea"
+ },
+ "Diphtherophoridae": {
+  "raw": "Enoplea Enoplia Triplonchida Diphtherophoroidea",
+  "family": "Diphtherophoridae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "",
+  "superfamily": "Diphtherophoroidea"
+ },
+ "Diplogasteroididae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Diplogastroidea",
+  "family": "Diplogasteroididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Diplogastroidea"
+ },
+ "Diplogastridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Diplogastroidea",
+  "family": "Diplogastridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Diplogastroidea"
+ },
+ "Diplopeltidae": {
+  "raw": "Chromadorea Chromadoria Araeolaimida Araeolaimina Araeolaimoidea",
+  "family": "Diplopeltidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Araeolaimida",
+  "suborder": "Araeolaimina",
+  "superfamily": "Araeolaimoidea"
+ },
+ "Diplopeltoididae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Leptolaimoidea",
+  "family": "Diplopeltoididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Leptolaimoidea"
+ },
+ "Diploscapteridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Rhabditoidea",
+  "family": "Diploscapteridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Rhabditoidea"
+ },
+ "Diplotriaenidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Diplotriaenoidea",
+  "family": "Diplotriaenidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Diplotriaenoidea"
+ },
+ "Discolaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimoidea",
+  "family": "Discidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Dolichodoridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Dolichodoridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Dorygasteridae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida",
+  "family": "Dorygasteridae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "",
+  "superfamily": ""
+ },
+ "Dorylaimellidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Belondiroidea",
+  "family": "Dorylaimellidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Belondiroidea"
+ },
+ "Dorylaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Dorylaimidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Draconematidae": {
+  "raw": "Chromadorea Chromadoria Desmodorida Desmodorina Desmodoroidea",
+  "family": "Draconematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmodorida",
+  "suborder": "Desmodorina",
+  "superfamily": "Desmodoroidea"
+ },
+ "Dracunculidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Dracunculidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Drilonematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Drilonematoidea",
+  "family": "Drilonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Drilonematoidea"
+ },
+ "Elaphonematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Cephaloboidea",
+  "family": "Elaphonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Cephaloboidea"
+ },
+ "Enchelidiidae": {
+  "raw": "Enoplea Enoplia Enoplida Oncholaimina Oncholaimoidea",
+  "family": "Enchelidiidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Oncholaimina",
+  "superfamily": "Oncholaimoidea"
+ },
+ "Encholaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Tylencholaimoidea",
+  "family": "Encholaimidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Tylencholaimoidea"
+ },
+ "Enoplidae": {
+  "raw": "Enoplea Enoplia Enoplida Enoplina Enoploidea",
+  "family": "Enoplidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Enoplina",
+  "superfamily": "Enoploidea"
+ },
+ "Eophasmidae": {
+  "raw": "Chromadorea Chromadoria Desmoscolecida Desmoscolecina Desmoscolecoidea",
+  "family": "Eophasmidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmoscolecida",
+  "suborder": "Desmoscolecina",
+  "superfamily": "Desmoscolecoidea"
+ },
+ "Epsilonematidae": {
+  "raw": "Chromadorea Chromadoria Desmodorida Desmodorina Desmodoroidea",
+  "family": "Epsilonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmodorida",
+  "suborder": "Desmodorina",
+  "superfamily": "Desmodoroidea"
+ },
+ "Ethmolaimidae": {
+  "raw": "Chromadorea Chromadoria Chromadorida Chromadorina Chromadoroidea",
+  "family": "Ethmolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "Chromadorina",
+  "superfamily": "Chromadoroidea"
+ },
+ "Filariidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Filarioidea",
+  "family": "Filariidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Filarioidea"
+ },
+ "Filaroididae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Metastrongyloidea",
+  "family": "Filaroididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Metastrongyloidea"
+ },
+ "Fusivermidae": {
+  "raw": "Chromadorea Chromadoria Monhysterida Monhysterina Siphonolaimoidea",
+  "family": "Fusivermidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Monhysterida",
+  "suborder": "Monhysterina",
+  "superfamily": "Siphonolaimoidea"
+ },
+ "Gnathostomatidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina",
+  "family": "Gnathostomatidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": ""
+ },
+ "Gongylonematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Spiruroidea",
+  "family": "Gongylonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Spiruroidea"
+ },
+ "Greeffiellidae": {
+  "raw": "Chromadorea Chromadoria Desmoscolecida Desmoscolecoidea",
+  "family": "Greeidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmoscolecida",
+  "suborder": "",
+  "superfamily": "Desmoscolecoidea"
+ },
+ "Guyanemidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Guyanemidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Habronematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Habronematoidea",
+  "family": "Habronematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Habronematoidea"
+ },
+ "Haemonchidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Trichostrongyloidea",
+  "family": "Haemonchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Trichostrongyloidea"
+ },
+ "Halaphanolaimidae": {
+  "raw": "Chromadorea Chromadoria Araeolaimida",
+  "family": "Halaphanolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Araeolaimida",
+  "suborder": "",
+  "superfamily": ""
+ },
+ "Haliplectidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Haliplectoidea",
+  "family": "Haliplectidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Haliplectoidea"
+ },
+ "Hartertiidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Spiruroidea",
+  "family": "Hartertiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Spiruroidea"
+ },
+ "Hedruridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Habronematoidea",
+  "family": "Hedruridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Habronematoidea"
+ },
+ "Heligmonellidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Heligmosomoidea",
+  "family": "Heligmonellidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Heligmosomoidea"
+ },
+ "Heligmosomidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Heligmosomoidea",
+  "family": "Heligmosomidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Heligmosomoidea"
+ },
+ "Hemicycliophoridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Criconematoidea",
+  "family": "Hemicycliophoridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Criconematoidea"
+ },
+ "Herpetostrongylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Heligmosomoidea",
+  "family": "Herpetostrongylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Heligmosomoidea"
+ },
+ "Heterakidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Heterakoidea",
+  "family": "Heterakidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Heterakoidea"
+ },
+ "Heterocheilidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Ascaridoidea",
+  "family": "Heterocheilidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Ascaridoidea"
+ },
+ "Heteroderidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Heteroderidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Heterorhabditidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Rhabditoidea",
+  "family": "Heterorhabditidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Rhabditoidea"
+ },
+ "Heteroxynematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Oxyuroidea",
+  "family": "Heteroxynematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Oxyuroidea"
+ },
+ "Hethidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Ransomnematoidea",
+  "family": "Hethidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Ransomnematoidea"
+ },
+ "Homungellidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Drilonematoidea",
+  "family": "Homungellidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Drilonematoidea"
+ },
+ "Hoplolaimidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Hoplolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Hypodontolaimidae": {
+  "raw": "Chromadorea Chromadoria Chromadorida",
+  "family": "Hypodontolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "",
+  "superfamily": ""
+ },
+ "Hystrignathidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Thelastomatoidea",
+  "family": "Hystrignathidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Thelastomatoidea"
+ },
+ "Ichthyocephalidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina",
+  "family": "Ichthyocephalidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": ""
+ },
+ "Iotonchidae": {
+  "raw": "Enoplea Dorylaimia Mononchida Mononchina Mononchoidea",
+  "family": "Iotonchidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mononchida",
+  "suborder": "Mononchina",
+  "superfamily": "Mononchoidea"
+ },
+ "Iotonchiidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Iotonchoidea",
+  "family": "Iotonchiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Iotonchoidea"
+ },
+ "Ironidae": {
+  "raw": "Enoplea Enoplia Enoplida Ironina Ironoidea",
+  "family": "Ironidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Ironina",
+  "superfamily": "Ironoidea"
+ },
+ "Isolaimiidae": {
+  "raw": "Enoplea Dorylaimia Isolaimiida Isolaimiina Isolaimioidea",
+  "family": "Isolaimiidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Isolaimiida",
+  "suborder": "Isolaimiina",
+  "superfamily": "Isolaimioidea"
+ },
+ "Kathlaniidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Cosmocercoidea",
+  "family": "Kathlaniidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Cosmocercoidea"
+ },
+ "Kiwinematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Heterakoidea Kiwinematidae",
+  "family": "Kiwinematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Heterakoidea"
+ },
+ "Lauratonematidae": {
+  "raw": "Enoplea Enoplia Enoplida Trefusiina Trefusioidea",
+  "family": "Lauratonematidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Trefusiina",
+  "superfamily": "Trefusioidea"
+ },
+ "Leptolaimidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Leptolaimoidea",
+  "family": "Leptolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Leptolaimoidea"
+ },
+ "Leptonchidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Tylencholaimoidea",
+  "family": "Leptonchidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Tylencholaimoidea"
+ },
+ "Leptosomatidae": {
+  "raw": "Enoplea Enoplia Enoplida Ironina Ironoidea",
+  "family": "Leptosomatidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Ironina",
+  "superfamily": "Ironoidea"
+ },
+ "Linhomoeidae": {
+  "raw": "Chromadorea Chromadoria Monhysterida Linhomoeina Siphonolaimoidea",
+  "family": "Linhomoeidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Monhysterida",
+  "suborder": "Linhomoeina",
+  "superfamily": "Siphonolaimoidea"
+ },
+ "Longidoridae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Longidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Lordellonematidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Lucionematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Lucionematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Mackerrastrongylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Molineoidea",
+  "family": "Mackerrastrongylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Molineoidea"
+ },
+ "Marimermithidae": {
+  "raw": "Enoplea Dorylaimia Mermithida Mermithina Mermithoidea",
+  "family": "Marimermithidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mermithida",
+  "suborder": "Mermithina",
+  "superfamily": "Mermithoidea"
+ },
+ "Maupasinidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Subuluroidea",
+  "family": "Maupasinidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Subuluroidea"
+ },
+ "Mehdinematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Diplogastroidea",
+  "family": "Mehdinematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Diplogastroidea"
+ },
+ "Meloidogynidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Meloidogynidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Merliniidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Merliniidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Mermithidae": {
+  "raw": "Enoplea Dorylaimia Mermithida Mermithina Mermithoidea",
+  "family": "Mermithidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mermithida",
+  "suborder": "Mermithina",
+  "superfamily": "Mermithoidea"
+ },
+ "Mesidionematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Drilonematoidea",
+  "family": "Mesidionematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Drilonematoidea"
+ },
+ "Metastrongylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Metastongyloidea",
+  "family": "Metastrongylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Metastongyloidea"
+ },
+ "Meyliidae": {
+  "raw": "Chromadorea Chromadoria Desmoscolecida Desmoscolecina Desmoscolecoidea",
+  "family": "Meyliidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmoscolecida",
+  "suborder": "Desmoscolecina",
+  "superfamily": "Desmoscolecoidea"
+ },
+ "Microlaimidae": {
+  "raw": "Chromadorea Chromadoria Microlaimida Microlaimina Microlaimoidea",
+  "family": "Microlaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Microlaimida",
+  "suborder": "Microlaimina",
+  "superfamily": "Microlaimoidea"
+ },
+ "Micropleuridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Micropleuridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Molineidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Molineoidea",
+  "family": "Molineidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Molineoidea"
+ },
+ "Monhysteridae": {
+  "raw": "Chromadorea Chromadoria Monhysterida Monhysterina Monhysteroidea",
+  "family": "Monhysteridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Monhysterida",
+  "suborder": "Monhysterina",
+  "superfamily": "Monhysteroidea"
+ },
+ "Mononchidae": {
+  "raw": "Enoplea Dorylaimia Mononchida Mononchina Mononchoidea",
+  "family": "Mononchidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mononchida",
+  "suborder": "Mononchina",
+  "superfamily": "Mononchoidea"
+ },
+ "Mononchulidae": {
+  "raw": "Enoplea Dorylaimia Mononchida Bathyodontina Mononchuloidea",
+  "family": "Mononchulidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mononchida",
+  "suborder": "Bathyodontina",
+  "superfamily": "Mononchuloidea"
+ },
+ "Monoposthiidae": {
+  "raw": "Chromadorea Chromadoria Desmodorida Desmodorina Monoposthioidea",
+  "family": "Monoposthiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmodorida",
+  "suborder": "Desmodorina",
+  "superfamily": "Monoposthioidea"
+ },
+ "Muspiceidae": {
+  "raw": "Enoplea Dorylaimia Muspiceida Muspiceina Muspiceoidea",
+  "family": "Muspiceidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Muspiceida",
+  "suborder": "Muspiceina",
+  "superfamily": "Muspiceoidea"
+ },
+ "Mydonomidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Tylencholaimoidea",
+  "family": "Mydonomidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Tylencholaimoidea"
+ },
+ "Myenchidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Myenchoidea",
+  "family": "Myenchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Myenchoidea"
+ },
+ "Mylonchulidae": {
+  "raw": "Enoplea Dorylaimia Mononchida Mononchina Mononchoidea",
+  "family": "Mylonchulidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mononchida",
+  "suborder": "Mononchina",
+  "superfamily": "Mononchoidea"
+ },
+ "Myolaimidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Myolaimina Myolaimoidea",
+  "family": "Myolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Myolaimina",
+  "superfamily": "Myolaimoidea"
+ },
+ "Neodiplogastridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Diplogastroidea",
+  "family": "Neodiplogastridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Diplogastroidea"
+ },
+ "Neotonchidae": {
+  "raw": "Chromadorea Chromadoria Chromadorida Chromadorina Chromadoroidea",
+  "family": "Neotonchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "Chromadorina",
+  "superfamily": "Chromadoroidea"
+ },
+ "Neotylenchidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Iotonchoidea",
+  "family": "Neotylenchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Iotonchoidea"
+ },
+ "Nicollinidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Heligmosomoidea",
+  "family": "Nicollinidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Heligmosomoidea"
+ },
+ "Nordiidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Nordiidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Nygellidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Nygolaimina Nygolaimoidea",
+  "family": "Nygellidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Nygolaimina",
+  "superfamily": "Nygolaimoidea"
+ },
+ "Nygolaimellidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Nygolaimina Nygolaimoidea",
+  "family": "Nyglidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Nygolaimina",
+  "superfamily": "Nygolaimoidea"
+ },
+ "Nygolaimidae": {
+  "raw": "Enoplea Enoplia Dorylaimida Nygolaimina Nygolaimoidea",
+  "family": "Nygolaimidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Dorylaimida",
+  "suborder": "Nygolaimina",
+  "superfamily": "Nygolaimoidea"
+ },
+ "Odontolaimidae": {
+  "raw": "Enoplea Enoplia Triplonchida Tobrilina Tobriloidea",
+  "family": "Odontolaimidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "Tobrilina",
+  "superfamily": "Tobriloidea"
+ },
+ "Odontopharyngidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Odontopharyngoidea",
+  "family": "Odontopharyngidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Odontopharyngoidea"
+ },
+ "Ohridiidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Leptolaimoidea",
+  "family": "Ohridiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Leptolaimoidea"
+ },
+ "Onchocercidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Filarioidea",
+  "family": "Onchocercidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Filarioidea"
+ },
+ "Oncholaimidae": {
+  "raw": "Enoplea Enoplia Enoplida Oncholaimina Oncholaimoidea",
+  "family": "Oncholaimidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Oncholaimina",
+  "superfamily": "Oncholaimoidea"
+ },
+ "Onchulidae": {
+  "raw": "Enoplea Enoplia Triplonchida Tripylina Tripyloidea",
+  "family": "Onchulidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "Tripylina",
+  "superfamily": "Tripyloidea"
+ },
+ "Opailaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Belondiroidea",
+  "family": "Bldridae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Belondiroidea"
+ },
+ "Ornithostrongylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Heligmosomoidea",
+  "family": "Ornithostrongylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Heligmosomoidea"
+ },
+ "Osstellidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Cephaloboidea",
+  "family": "Osstellidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Cephaloboidea"
+ },
+ "Oswaldofilariidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Diplotriaenoidea",
+  "family": "Oswaldofilariidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Diplotriaenoidea"
+ },
+ "Oxystominidae": {
+  "raw": "Enoplea Enoplia Enoplida Ironina Ironoidea",
+  "family": "Oxystominidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Ironina",
+  "superfamily": "Ironoidea"
+ },
+ "Oxyuridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Oxyuroidea",
+  "family": "Oxyuridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Oxyuroidea"
+ },
+ "Panagrolaimidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Panagrolaimoidea",
+  "family": "Panagrolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Panagrolaimoidea"
+ },
+ "Pandolaimidae": {
+  "raw": "Enoplea Enoplia Triplonchida Tobrilina Tobriloidea",
+  "family": "Pandolaimidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "Tobrilina",
+  "superfamily": "Tobriloidea"
+ },
+ "Paramicrolaimidae": {
+  "raw": "Chromadorea Chromadoria Microlaimida Microlaimina Microlaimoidea",
+  "family": "Paramicrolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Microlaimida",
+  "suborder": "Microlaimina",
+  "superfamily": "Microlaimoidea"
+ },
+ "Parasitylenchidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida",
+  "family": "Parasitylenchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "",
+  "superfamily": ""
+ },
+ "Paratylenchidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchuloidea",
+  "family": "Paratylenchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchuloidea"
+ },
+ "Paraxonchiidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Belondiroidea",
+  "family": "Paraxonchiidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Belondiroidea"
+ },
+ "Paurodontidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Paurodontidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Peloderidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Mesorhabditoidea",
+  "family": "Rhabidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Mesorhabditoidea"
+ },
+ "Peresianidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Haliplectoidea",
+  "family": "Haliidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Haliplectoidea"
+ },
+ "Phanodermatidae": {
+  "raw": "Enoplea Enoplia Enoplida Enoplina Enoploidea",
+  "family": "Phanodermatidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Enoplina",
+  "superfamily": "Enoploidea"
+ },
+ "Pharyngodonidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Oxyuroidea",
+  "family": "Pharyngodonidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Oxyuroidea"
+ },
+ "Pharyngonematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Drilonematoidea",
+  "family": "Phrnidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Drilonematoidea"
+ },
+ "Philometridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Philometridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Phlyctainophoridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Phlyctainophoridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Physalopteridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Physalopteroidea",
+  "family": "Physalopteridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Physalopteroidea"
+ },
+ "Plectidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Plectoidea",
+  "family": "Plectidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Plectoidea"
+ },
+ "Pneumospiruridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Thelazioidea",
+  "family": "Pneumospiruridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Thelazioidea"
+ },
+ "Pratylenchidae": {
+  "raw": "family=Pratylenchidae order=Rhabditida suborder=Tylenchina superfamily=Tylenchoidea",
+  "family": "Pratylenchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea",
+  "class_source": "inferred-from-order-tree",
+  "subclass_source": "inferred-from-order-tree"
+ },
+ "Prismatolaimidae": {
+  "raw": "Enoplea Enoplia Triplonchida Tobrilina Prismatoloidea",
+  "family": "Prismatolaimidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "Tobrilina",
+  "superfamily": "Prismatoloidea"
+ },
+ "Protostrongylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Metastrongyloidea",
+  "family": "Protostrongylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Metastrongyloidea"
+ },
+ "Protrelloididae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Thelastomatoidea",
+  "family": "Protrelloididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Thelastomatoidea"
+ },
+ "Pseudaliidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Metastrongyloidea",
+  "family": "Pseudaliidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Metastrongyloidea"
+ },
+ "Pseudiplogasteroididae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Diplogastroidea",
+  "family": "Pseudodiplogasteroididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Diplogastroidea"
+ },
+ "Pterygorhabditidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Bunonematoidea",
+  "family": "Pterygorhabditidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Bunonematoidea"
+ },
+ "Qudsianematidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Qudsianematidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Quimperiidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Seuratoidea",
+  "family": "Quimperiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Seuratoidea"
+ },
+ "Ransomnematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Ransomnematoidea",
+  "family": "Ransomnematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Ransomnematoidea"
+ },
+ "Raphidascarididae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Ascaridoidea",
+  "family": "Raphidascarididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Ascaridoidea"
+ },
+ "Rhabdiasidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Strongyloidoidea",
+  "family": "Rhabdiasidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Strongyloidoidea"
+ },
+ "Rhabditidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Mesorhabditoidea",
+  "family": "Rhabditidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Mesorhabditoidea"
+ },
+ "Rhabdochonidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Thelazioidea",
+  "family": "Rhabdochonidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Thelazioidea"
+ },
+ "Rhabdodemaniidae": {
+  "raw": "Enoplea Enoplia Triplonchida Tobrilina Tobriloidea",
+  "family": "Rhabdodemaniidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "Tobrilina",
+  "superfamily": "Tobriloidea"
+ },
+ "Rhabdolaimidae": {
+  "raw": "Chromadorea Chromadoria Chromadoria Plectida Plectina Leptolaimoidea",
+  "family": "Rhabdolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Leptolaimoidea"
+ },
+ "Rhadinematidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Camacolaimoidea",
+  "family": "Rhadinematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Camacolaimoidea"
+ },
+ "Rhigonematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina",
+  "family": "Rhigonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": ""
+ },
+ "Richtersiidae": {
+  "raw": "Chromadorea Chromadoria Desmodorida Desmodorina Desmodoroidea",
+  "family": "Richtersiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmodorida",
+  "suborder": "Desmodorina",
+  "superfamily": "Desmodoroidea"
+ },
+ "Rictulariidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Rictularioidea",
+  "family": "Rictulariidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Rictularioidea"
+ },
+ "Robertdollfusidae": {
+  "raw": "Enoplea Dorylaimia Muspiceida Muspiceina Muspiceoidea",
+  "family": "Robertdollfusidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Muspiceida",
+  "suborder": "Muspiceina",
+  "superfamily": "Muspiceoidea"
+ },
+ "Roqueidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Belondiroidea",
+  "family": "Roquidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Belondiroidea"
+ },
+ "Schneidernematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Seuratoidea",
+  "family": "Schneidernematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Seuratoidea"
+ },
+ "Selachinematidae": {
+  "raw": "Chromadorea Chromadoria Chromadorida Chromadorina Chromadoroidea",
+  "family": "Selachinematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Chromadorida",
+  "suborder": "Chromadorina",
+  "superfamily": "Chromadoroidea"
+ },
+ "Setariidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Filarioidea",
+  "family": "Setaidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Filarioidea"
+ },
+ "Seuratidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Seuratoidea",
+  "family": "Seuratidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Seuratoidea"
+ },
+ "Simpliconematidae": {
+  "raw": "Enoplea Enoplia Enoplida Trefusiina Trefusioidea",
+  "family": "Simpliconematidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Trefusiina",
+  "superfamily": "Trefusioidea"
+ },
+ "Siphonolaimidae": {
+  "raw": "Chromadorea Chromadoria Monhysterida Monhysterina Siphonolaimoidea",
+  "family": "Siphonolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Monhysterida",
+  "suborder": "Monhysterina",
+  "superfamily": "Siphonolaimoidea"
+ },
+ "Skrjabillanidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Skrjabillanidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Skrjabingylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Metastrongyloidea",
+  "family": "Skrjabingylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Metastrongyloidea"
+ },
+ "Soboliphymatidae": {
+  "raw": "Enoplea Dorylaimia Dioctophymatida Dioctophymatina Dioctophymatoidea",
+  "family": "Soboidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dioctophymatida",
+  "suborder": "Dioctophymatina",
+  "superfamily": "Dioctophymatoidea"
+ },
+ "Sphaerolaimidae": {
+  "raw": "Chromadorea Chromadoria Monhysterida Monhysterina Sphaerolaimoidea",
+  "family": "Sphaerolaimidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Monhysterida",
+  "suborder": "Monhysterina",
+  "superfamily": "Sphaerolaimoidea"
+ },
+ "Sphaeronematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchuloidea",
+  "family": "Sphaeronematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchuloidea"
+ },
+ "Sphaerulariidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Iotonchoidea",
+  "family": "Sphaerulariidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Iotonchoidea"
+ },
+ "Spirinidae": {
+  "raw": "Chromadorea Chromadoria Desmodorida Desmodorina Microlaimoidea",
+  "family": "Sprnidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmodorida",
+  "suborder": "Desmodorina",
+  "superfamily": "Microlaimoidea"
+ },
+ "Spirocercidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Spiruroidea",
+  "family": "Spirocercidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Spiruroidea"
+ },
+ "Spiruridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Spiruroidea",
+  "family": "Spiruridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Spiruroidea"
+ },
+ "Steinernematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Strongyloidoidea",
+  "family": "Steinernematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Strongyloidoidea"
+ },
+ "Stilbonematidae": {
+  "raw": "Chromadorea Chromadoria Desmodorida Desmodorina Desmodoroidea",
+  "family": "Stilidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Desmodorida",
+  "suborder": "Desmodorina",
+  "superfamily": "Desmodoroidea"
+ },
+ "Strongylacanthidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Molineoidea",
+  "family": "Strongylacanthidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Molineoidea"
+ },
+ "Strongylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Strongyloidea",
+  "family": "Strongylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Strongyloidea"
+ },
+ "Strongyloididae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Strongyloidoidea",
+  "family": "Strongyloididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Strongyloidoidea"
+ },
+ "Subuluridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Subuluroidea",
+  "family": "Subuluridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Subuluroidea"
+ },
+ "Swangeriidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Belondiroidea",
+  "family": "Swangeriidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Belondiroidea"
+ },
+ "Syngamidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Strongyloidea",
+  "family": "Syngamidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Strongyloidea"
+ },
+ "Synochidae": {
+  "raw": "Enoplea Enoplia Enoplida",
+  "family": "Synochidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "",
+  "superfamily": ""
+ },
+ "Tarviidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Ceramonematoidea",
+  "family": "Tarvaiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Ceramonematoidea"
+ },
+ "Telotylenchidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Telotylenchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Teratocephalidae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Plectoidea",
+  "family": "Teratocephalidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Plectoidea"
+ },
+ "Tetanonematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Dracunculoidea",
+  "family": "Tetanonematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Dracunculoidea"
+ },
+ "Tetradonematidae": {
+  "raw": "Enoplea Dorylaimia Mermithida Mermithina Tetradonematoidea",
+  "family": "Tetradonematidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Mermithida",
+  "suborder": "Mermithina",
+  "superfamily": "Tetradonematoidea"
+ },
+ "Tetrameridae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Habronematoidea",
+  "family": "Tetrameridae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Habronematoidea"
+ },
+ "Thelastomatidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Thelastomatoidea",
+  "family": "Thelastomatidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Thelastomatoidea"
+ },
+ "Thelaziidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Thelazioidea",
+  "family": "Thelaziidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Thelazioidea"
+ },
+ "Thoracostomopsidae": {
+  "raw": "Enoplea Enoplia Enoplida Enoplina Enoploidea",
+  "family": "Thoracostomopsidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Enoplina",
+  "superfamily": "Enoploidea"
+ },
+ "Thornenematidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina",
+  "family": "Thornenematidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": ""
+ },
+ "Thorniidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Thorniidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Tobrilidae": {
+  "raw": "Enoplea Enoplia Triplonchida Tobrilina Tobriloidea",
+  "family": "Tobrilidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "Tobrilina",
+  "superfamily": "Tobriloidea"
+ },
+ "Trachypleurosidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Dorylaimoidea",
+  "family": "Trachypleurosidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Dorylaimoidea"
+ },
+ "Travassosinematidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina Thelastomatoidea",
+  "family": "Travassosinematidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": "Thelastomatoidea"
+ },
+ "Trefusiidae": {
+  "raw": "Enoplea Enoplia Enoplida Trefusiina Trefusioidea",
+  "family": "Trefusiidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Trefusiina",
+  "superfamily": "Trefusioidea"
+ },
+ "Trichinellidae": {
+  "raw": "Enoplea Dorylaimia Trichinellida Trichinellina Trichinelloidea",
+  "family": "Trichinellidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Trichinellida",
+  "suborder": "Trichinellina",
+  "superfamily": "Trichinelloidea"
+ },
+ "Trichodoridae": {
+  "raw": "Enoplea Enoplia Triplonchida Diphtherophorina Diphtherophoroidea",
+  "family": "Trichodoridae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "Diphtherophorina",
+  "superfamily": "Diphtherophoroidea"
+ },
+ "Trichosomoididae": {
+  "raw": "Enoplea Dorylaimia Trichinellida Trichinellina Trichinelloidea",
+  "family": "Trichosomoididae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Trichinellida",
+  "suborder": "Trichinellina",
+  "superfamily": "Trichinelloidea"
+ },
+ "Trichostrongylidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Trichostrongyloidea",
+  "family": "Trichostrongylidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Trichostrongyloidea"
+ },
+ "Trichuridae": {
+  "raw": "Enoplea Dorylaimia Trichinellida Trichinellina Trichinelloidea",
+  "family": "Trichuridae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Trichinellida",
+  "suborder": "Trichinellina",
+  "superfamily": "Trichinelloidea"
+ },
+ "Triodontolaimidae": {
+  "raw": "Enoplea Enoplia Triplonchida Tobrilina Tobriloidea",
+  "family": "Triodontolaimidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Triplonchida",
+  "suborder": "Tobrilina",
+  "superfamily": "Tobriloidea"
+ },
+ "Tripylidae": {
+  "raw": "Enoplea Enoplia Enoplida Tripylina Tripyloidea",
+  "family": "Tripylidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Tripylina",
+  "superfamily": "Tripyloidea"
+ },
+ "Tripyloididae": {
+  "raw": "Enoplea Enoplia Enoplida Tripyloidina Tripyloidoidea",
+  "family": "Trypidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Tripyloidina",
+  "superfamily": "Tripyloidoidea"
+ },
+ "Trischistomatidae": {
+  "raw": "Enoplea Enoplia Enoplida Tripylina Tripyloidea",
+  "family": "Trischistomatidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Tripylina",
+  "superfamily": "Tripyloidea"
+ },
+ "Tubolaimoididae": {
+  "raw": "Chromadorea Chromadoria Plectida Plectina Ceramonematoidea",
+  "family": "Tubolaimoididae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Plectida",
+  "suborder": "Plectina",
+  "superfamily": "Ceramonematoidea"
+ },
+ "Tylenchidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchoidea",
+  "family": "Tylenchidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchoidea"
+ },
+ "Tylencholaimellidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Tylencholaimoidea",
+  "family": "Tylencholaimellidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Tylencholaimoidea"
+ },
+ "Tylencholaimidae": {
+  "raw": "Enoplea Dorylaimia Dorylaimida Dorylaimina Tylencholaimoidea",
+  "family": "Tylencholaimidae",
+  "class": "Enoplea",
+  "subclass": "Dorylaimia",
+  "order": "Dorylaimida",
+  "suborder": "Dorylaimina",
+  "superfamily": "Tylencholaimoidea"
+ },
+ "Tylenchulidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Tylenchuloidea",
+  "family": "Tylenchulidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Tylenchuloidea"
+ },
+ "Tylopharyngidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Diplogastroidea",
+  "family": "Tyloidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Diplogastroidea"
+ },
+ "Ungellidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Tylenchina Drilonematoidea",
+  "family": "Ungellidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Tylenchina",
+  "superfamily": "Drilonematoidea"
+ },
+ "Viannaiidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Rhabditina Heligmosomoidea",
+  "family": "Viannaiidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Rhabditina",
+  "superfamily": "Heligmosomoidea"
+ },
+ "Xenellidae": {
+  "raw": "Enoplea Enoplia Enoplida Trefusiina Trefusioidea",
+  "family": "Xeneidae",
+  "class": "Enoplea",
+  "subclass": "Enoplia",
+  "order": "Enoplida",
+  "suborder": "Trefusiina",
+  "superfamily": "Trefusioidea"
+ },
+ "Xustromatidae": {
+  "raw": "Chromadorea Chromadoria Rhabditida Spirurina",
+  "family": "Xustromatidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Rhabditida",
+  "suborder": "Spirurina",
+  "superfamily": ""
+ },
+ "Xyalidae": {
+  "raw": "Chromadorea Chromadoria Monhysterida Monhysterina Sphaerolaimoidea",
+  "family": "Xyalidae",
+  "class": "Chromadorea",
+  "subclass": "Chromadoria",
+  "order": "Monhysterida",
+  "suborder": "Monhysterina",
+  "superfamily": "Sphaerolaimoidea"
+ }
+}
