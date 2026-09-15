@@ -86,6 +86,13 @@ CONF_RANK = {
 }
 
 
+def ensure_dir(path: str) -> None:
+    """mkdir -p the parent of `path`; a bare filename ("out.json") has none."""
+    d = os.path.dirname(path)
+    if d:
+        os.makedirs(d, exist_ok=True)
+
+
 def load_json(name: str):
     with open(os.path.join(DATA, name), encoding="utf-8") as fh:
         return json.load(fh)
@@ -316,7 +323,7 @@ def main() -> int:
     rows = read_rows(args.input, args.sheet)
     resolved, unresolved, origins = resolve(rows, args.cutoff, dict_paths)
 
-    os.makedirs(os.path.dirname(args.out), exist_ok=True)
+    ensure_dir(args.out)
     with open(args.out, "w", encoding="utf-8") as fh:
         json.dump(resolved, fh, ensure_ascii=False, indent=1)
 

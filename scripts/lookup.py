@@ -375,10 +375,12 @@ def main() -> int:
         rows = json.load(fh)
     out, stats = applies(rows)
 
-    os.makedirs(os.path.dirname(args.out), exist_ok=True)
+    _parent = os.path.dirname(args.out)
+    if _parent:
+        os.makedirs(_parent, exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as fh:
         json.dump(out, fh, ensure_ascii=False, indent=1)
-    with open(os.path.join(os.path.dirname(args.out), "stats.json"), "w", encoding="utf-8") as fh:
+    with open(os.path.join(_parent, "stats.json"), "w", encoding="utf-8") as fh:
         json.dump(stats, fh, ensure_ascii=False, indent=1)
 
     print(f"rows: {stats['rows']} -> {args.out}")
