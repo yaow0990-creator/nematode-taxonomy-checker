@@ -1,6 +1,6 @@
-# nematode-taxonomy
+# nematode-taxonomy-checker
 
-线虫属级分类与功能团核查工具。给一张**只有名称**的名录，还一张**带完整分类归属和功能团**的核查表。
+线虫分类与功能团核查 · 线虫属级分类与功能团核查工具。给一张**只有名称**的名录，还一张**带完整分类归属和功能团**的核查表。
 
 数据源：**Nemaplex, UC Davis** — http://nemaplex.ucdavis.edu/
 

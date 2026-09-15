@@ -1,5 +1,5 @@
 ---
-name: nematode-taxonomy
+name: nematode-taxonomy-checker
 description: 线虫（nematode）属级分类与功能团核查。输入一张只有属级名称的表（中文名 + 拉丁名，可带科/目/纲），自动补全科、目、纲（现代 + 经典两套体系）以及 Nemaplex 的功能团字段（c-p 值、取食类群、功能团代码）。当用户提到线虫分类核查、线虫属名核对、科属归属、c-p 值、功能团、functional guild、取食类群，或要给一份线虫名录补全分类信息时使用本 skill。数据源为 Nemaplex（UC Davis）。
 agent_created: true
 ---
