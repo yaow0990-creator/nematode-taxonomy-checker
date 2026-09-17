@@ -30,6 +30,7 @@ redoing the rest.
 from __future__ import annotations
 
 import argparse
+import importlib.util
 import json
 import os
 import subprocess
@@ -76,6 +77,20 @@ def main() -> int:
               "Run scripts/build_snapshot.py once to build the offline snapshot "
               "(roughly 300 requests to nemaplex.ucdavis.edu).", file=sys.stderr)
         return 1
+
+    has_openpyxl = importlib.util.find_spec("openpyxl") is not None
+    input_is_xlsx = args.input.lower().endswith((".xlsx", ".xlsm"))
+    if input_is_xlsx and not has_openpyxl:
+        print("!! 输入是 Excel 文件，但当前 Python 环境缺少依赖 openpyxl，无法读取，流程中止。\n"
+              "   请先安装（agent 收到此提示应代用户执行）：\n"
+              "       pip install openpyxl\n"
+              "   装好后重新运行同一条命令即可。", file=sys.stderr)
+        return 1
+    if not has_openpyxl:
+        print("== 提示：未安装 openpyxl，本次将跳过 Excel 核查表输出，"
+              "HTML 报告不受影响。", file=sys.stderr)
+        print("   如需 Excel 版（含四张工作表），安装后重跑同一命令即可："
+              "pip install openpyxl", file=sys.stderr)
 
     if not args.skip_normalize:
         run("normalize_names.py", ["--input", args.input, "--out", normalized,

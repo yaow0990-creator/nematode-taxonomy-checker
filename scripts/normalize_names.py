@@ -120,7 +120,14 @@ def pick(row: dict, keys: list[str]) -> str:
 
 def read_rows(path: str, sheet: str | None = None) -> list[dict]:
     if path.lower().endswith((".xlsx", ".xlsm")):
-        from openpyxl import load_workbook  # optional dependency
+        try:
+            from openpyxl import load_workbook  # optional dependency
+        except ImportError:
+            raise SystemExit(
+                f"!! 需要读取 Excel 文件（{os.path.basename(path)}），"
+                "但缺少依赖 openpyxl。\n"
+                "   请先安装：pip install openpyxl\n"
+                "   （agent 收到此提示应代用户执行安装，再重跑原命令）")
         wb = load_workbook(path, data_only=True)
         ws = wb[sheet] if sheet else wb[wb.sheetnames[0]]
         header = [c.value for c in ws[1]]

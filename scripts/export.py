@@ -23,6 +23,7 @@ import argparse
 import collections
 import datetime as _dt
 import html as _html
+import importlib.util
 import json
 import os
 import sys
@@ -410,9 +411,19 @@ def main() -> int:
     meta_path = os.path.join(DATA, "_meta.json")
     meta = load_json(meta_path) if os.path.exists(meta_path) else {}
 
-    write_xlsx(rows, labels, meta, args.xlsx)
+    xlsx_written = False
+    if importlib.util.find_spec("openpyxl") is None:
+        print("!! 缺少依赖 openpyxl，已跳过 Excel 输出（HTML 报告不受影响）。\n"
+              "   安装后重跑同一命令即可得到 Excel 版核查表：\n"
+              "   pip install openpyxl", file=sys.stderr)
+    else:
+        write_xlsx(rows, labels, meta, args.xlsx)
+        xlsx_written = True
     if not args.no_html:
         write_html(rows, labels, meta, stats, args.html)
+    if not xlsx_written and args.no_html:
+        print("!! 注意：--no-html 且未安装 openpyxl，本次运行没有产生任何输出文件。",
+              file=sys.stderr)
     return 0
 
 

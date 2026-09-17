@@ -109,11 +109,17 @@ examples/
 
 ## 依赖
 
-Python 3.9+（标准库即可；读 XLSX 和写 Excel 需要 `openpyxl`）。
+Python 3.9+。核心流程只用标准库；`openpyxl` 是可选依赖（读 XLSX 输入、输出 Excel 核查表需要）：
 
 ```bash
 pip install openpyxl
 ```
+
+未安装时的行为：
+
+- **输入是 XLSX**：流程在开始时中止，提示先安装；
+- **输入是 CSV**：照常核查，跳过 Excel 输出但**照常生成 HTML 报告**，提示安装后重跑
+  同一命令即可得到 Excel 版（四张工作表）。
 
 ## 数据来源与引用
 

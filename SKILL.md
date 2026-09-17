@@ -34,6 +34,15 @@ agent_created: true
 
 ## 首次使用
 
+依赖：Python 3.9+。核心流程只用标准库；**openpyxl 是可选依赖**（读 Excel 输入、
+输出 Excel 核查表需要），没装时行为如下：
+
+- 输入是 XLSX → 流程一开始就中止，用中文提示先 `pip install openpyxl`；
+- 输入是 CSV → 照常核查，**跳过 Excel 输出但照常生成 HTML 报告**，并提示装好后
+  重跑同一命令即可得到 Excel 版。
+
+**agent 看到这两类提示时应代用户执行安装（`pip install openpyxl`），然后重跑原命令。**
+
 需要先建离线快照（约 300 次请求，一次性）：
 
 ```bash
